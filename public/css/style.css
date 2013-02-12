@@ -1,0 +1,61 @@
+.intro {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.size-modal {
+  width: 500px;
+}
+
+.align-modal {
+  text-align: center;
+  padding-top: 15px;
+
+}
+
+.exam {
+	margin-bottom: 10px;
+}
+
+.color-success {
+  color: green;
+}
+.color-fail {
+  color: red;
+}
+
+.small-prez {
+  font-size: 12px;
+}
+
+div.horizontal-menu.horizontal-menu-map {
+    background: none repeat scroll 0 0 rgba(230, 230, 230, 0.9);
+    border-top: thin solid rgba(0, 0, 0, 0.1);
+    bottom: 0;
+    right: 0;
+    width: 310px;
+    z-index: 101;
+    position: absolute;
+}
+div.horizontal-menu {
+    padding: 5px;
+}
+div.horizontal-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#social-content {
+  text-align: center;
+  float:left;
+  padding-left: 65px;
+}
+#twitter {
+  float:left;
+}
+
+.autoecole-title {
+  font-size: 140%;
+  font-weight: bold;
+}

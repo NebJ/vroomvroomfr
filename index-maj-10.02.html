@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <title>VroomVroom.fr</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trouve la meilleure auto-école près de chez toi !">
+    <meta name="author" content="Edouard Schlumberger">
+    <link rel="icon" type="image/png" href="public/img/vroom.ico" />
+<!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="public/img/vroom.ico" /><![endif]-->
+    <script src='public/js/detectmobile.js'></script>
+    <script>
+                        try {
+                                // This is the URL where mobile
+                                detectmobile.defaultMobileURL = "http://www.vroomvroom.fr/mobile.html";
+                                detectmobile.process();
+                        } catch(e) {
+                                // Make sure that in the fault modes
+                                // we do not interrupt execution of other Javascript code
+                        }
+                </script>
+  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js'></script>
+  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet' />
+  <link href="public/css/bootstrap.css" rel="stylesheet">
+  <link href="public/css/sidebar.css" rel="stylesheet">
+  <link href="public/css/style.css" rel="stylesheet">
+  <script src="public/js/jquery-1.8.3.min.js"></script>
+  <script src="public/js/bootstrap.js"></script>
+  <link rel="stylesheet" href="public/js/chosen/chosen.css" />
+  <script src="public/js/application.js"></script>
+  <script src="public/js/autoecole-data.js"></script>
+  <script src="public/js/chosen/chosen.jquery.js" type="text/javascript"></script>
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+  </style>
+</head>
+<body>
+
+  <div id="search-modal" class="modal hide fade size-modal">
+    <div class="modal-header align-modal">
+      <h3 id="myModalLabel"><img src="public/img/auto2.png" style="width:150px"> </h3>
+    </div>
+    <div class="modal-body">
+      <div style="background-color">
+      <p class="intro align-modal" style="padding-top:10px">Choisis la meilleure auto-école au meilleur prix <br />près de chez toi !</p></div>
+      <hr>
+      <form class="form-horizontal" style="margin-bottom: 30px;">
+<div class="intro">
+  <label class="control-label" for="selectPostalcode">Code postal </label>
+  <div class="control-group">
+  <div class="controls">
+  <select class="span2 chzn-select" id="selectPostalcode" data-placeholder="Saisis ton code postal" >
+    <option value=""></option>
+<option value="48.35;2.566667">77760</option>
+<option value="48.6;2.816667">77390</option>
+<option value="48.916667;2.716667">77410</option>
+<option value="48.65;2.866667">77390</option>
+<option value="48.983333;3.016667">77440</option>
+<option value="48.183333;2.55">77890</option>
+<option value="48.216667;2.616667">77570</option>
+<option value="48.683333;3.35">77560</option>
+<option value="48.4;2.716667">77210</option>
+<option value="48.4;3.333333">77480</option>
+<option value="48.583333;2.983333">77720</option>
+<option value="48.833333;2.816667">77700</option>
+<option value="48.45;2.6">77630</option>
+<option value="49.016667;2.883333">77910</option>
+<option value="48.933333;3.283333">77750</option>
+<option value="48.4;3.183333">77118</option>
+<option value="48.633333;2.866667">77390</option>
+<option value="48.85;3.316667">77510</option>
+<option value="48.7;3.25">77320</option>
+<option value="48.683333;3.233333">77970</option>
+<option value="48.25;3.016667">77940</option>
+<option value="48.683333;3.216667">77970</option>
+<option value="48.466667;2.7">77590</option>
+<option value="48.516667;2.616667">77350</option>
+<option value="48.516667;2.583333">77350</option>
+<option value="48.533333;2.566667">77310</option>
+<option value="48.816667;3.133333">77169</option>
+<option value="48.9;3.266667">77750</option>
+<option value="48.566667;2.85">77720</option>
+<option value="48.2;2.65">77570</option>
+<option value="48.883333;2.916667">77580</option>
+<option value="48.333333;2.7">77780</option>
+<option value="48.916667;2.933333">77470</option>
+<option value="48.15;2.833333">77620</option>
+<option value="48.416667;3.233333">77480</option>
+<option value="48.333333;3.016667">77940</option>
+<option value="48.883333;2.633333">77177</option>
+<option value="48.233333;2.516667">77890</option>
+<option value="48.933333;3.233333">77750</option>
+<option value="48.85;2.7">77600</option>
+<option value="48.85;2.683333">77600</option>
+<option value="48.9;2.716667">77400</option>
+<option value="48.816667;2.966667">77515</option>
+<option value="48.4;2.816667">77670</option>
+<option value="48.683333;3.35">77320</option>
+<option value="48.566667;2.6">77240</option>
+<option value="48.5;3.15">77520</option>
+<option value="48.466667;2.583333">77930</option>
+<option value="48.2;2.816667">77460</option>
+<option value="48.533333;3.45">77171</option>
+<option value="48.483333;3.1">77520</option>
+<option value="48.883333;2.766667">77144</option>
+<option value="48.483333;3.25">77650</option>
+<option value="49  2.;9">77910</option>
+<option value="48.983333;3.15">77260</option>
+<option value="48.4;2.8">77430</option>
+<option value="48.666667;3.283333">77560</option>
+<option value="48.616667;2.733333">77390</option>
+<option value="48.583333;2.8">77720</option>
+<option value="48.85;2.6">77420</option>
+<option value="48.966667;3.033333">77660</option>
+<option value="48.55;2.9">77720</option>
+<option value="48.65;2.983333">77540</option>
+<option value="48.516667;2.966667">77370</option>
+<option value="48.733333;2.833333">77610</option>
+<option value="48.866667;2.933333">77580</option>
+<option value="48.95;2.783333">77410</option>
+<option value="48.966667;2.766667">77410</option>
+<option value="48.483333;2.7">77590</option>
+<option value="48.733333;3.266667">77320</option>
+<option value="48.583333;3.1">77370</option>
+<option value="48.15;2.7">77570</option>
+<option value="48.5;2.8">77820</option>
+<option value="48.533333;2.8">77820</option>
+<option value="48.7;2.816667">77610</option>
+<option value="48.966667;2.85">77124</option>
+<option value="48.816667;3.183333">77169</option>
+<option value="48.666667;2.85">77390</option>
+<option value="48.883333;2.6">77500</option>
+<option value="48.166667;2.65">77570</option>
+<option value="48.883333;2.766667">77700</option>
+<option value="48.733333;3.2">77320</option>
+<option value="48.25;2.95">77710</option>
+<option value="48.766667;3.216667">77320</option>
+<option value="48.966667;3.25">77730</option>
+<option value="48.95;2.7">77410</option>
+<option value="49.016667;3.1">77440</option>
+<option value="48.833333;2.666667">77090</option>
+<option value="48.666667;2.566667">77380</option>
+<option value="49  2.;7">77290</option>
+<option value="48.9;2.833333">77450</option>
+<option value="48.666667;2.7">77170</option>
+<option value="48.883333;2.866667">77860</option>
+<option value="48.9;2.933333">77580</option>
+<option value="48.9;2.8">77700</option>
+<option value="48.633333;3.283333">77560</option>
+<option value="48.65;2.95">77540</option>
+<option value="48.683333;2.75">77390</option>
+<option value="48.7;3.283333">77560</option>
+<option value="48.65;2.9">77390</option>
+<option value="48.533333;2.766667">77181</option>
+<option value="48.466667;3">77154</option>
+<option value="48.866667;2.85">77580</option>
+<option value="48.75;2.9">77610</option>
+<option value="48.6;2.75">77390</option>
+<option value="48.833333;2.666667">77183</option>
+<option value="48.583333;3.066667">77370</option>
+<option value="49.083333;3.066667">77840</option>
+<option value="48.716667;3.166667">77320</option>
+<option value="48.816667;2.933333">77163</option>
+<option value="48.883333;2.733333">77400</option>
+<option value="49.033333;3.166667">77440</option>
+<option value="48.283333;2.983333">77940</option>
+<option value="48.316667;2.9">77130</option>
+<option value="48.866667;3.15">77510</option>
+<option value="48.466667;2.95">77830</option>
+<option value="48.5;2.85">77820</option>
+<option value="48.35;2.816667">77250</option>
+<option value="48.433333;3.116667">77126</option>
+<option value="48.166667;2.866667">77620</option>
+<option value="48.816667;2.616667">77184</option>
+<option value="48.333333;2.783333">77250</option>
+<option value="48.9;2.816667">77450</option>
+<option value="48.35;2.966667">77940</option>
+<option value="49.033333;2.933333">77139</option>
+<option value="48.466667;3.25">77157</option>
+<option value="48.8;3">77515</option>
+<option value="48.45;2.8">77133</option>
+<option value="48.733333;2.633333">77150</option>
+<option value="48.783333;3.3">77320</option>
+<option value="48.95;3.133333">77260</option>
+<option value="48.316667;2.916667">77940</option>
+<option value="48.45;2.55">77930</option>
+<option value="48.4;2.7">77300</option>
+<option value="48.416667;3.383333">77480</option>
+<option value="48.483333;2.766667">77590</option>
+<option value="48.533333;3">77370</option>
+<option value="48.55;2.95">77370</option>
+<option value="48.7;2.866667">77610</option>
+<option value="48.583333;2.783333">77390</option>
+<option value="48.933333;2.733333">77410</option>
+<option value="48.7;3.2">77320</option>
+<option value="48.933333;2.95">77470</option>
+<option value="48.233333;2.55">77890</option>
+<option value="48.633333;3.016667">77370</option>
+<option value="48.316667;2.75">77690</option>
+<option value="49  2.;5">77910</option>
+<option value="49.066667;3.166667">77840</option>
+<option value="48.85;3.033333">77120</option>
+<option value="48.183333;2.533333">77890</option>
+<option value="48.866667;2.7">77400</option>
+<option value="48.4;3.116667">77118</option>
+<option value="48.966667;2.666667">77410</option>
+<option value="48.316667;2.7">77880</option>
+<option value="48.683333;2.666667">77166</option>
+<option value="48.433333;3.316667">77480</option>
+<option value="48.816667;2.966667">77580</option>
+<option value="48.85;2.7">77600</option>
+<option value="48.466667;3.1">77520</option>
+<option value="48.766667;2.966667">77515</option>
+<option value="48.883333;3">77580</option>
+<option value="48.45;2.766667">77850</option>
+<option value="48.9;3.316667">77510</option>
+<option value="48.75;2.866667">77610</option>
+<option value="48.2;2.55">77890</option>
+<option value="49  3.;7">77440</option>
+<option value="48.916667;2.833333">77450</option>
+<option value="48.916667;2.766667">77450</option>
+<option value="49  3.;5">77440</option>
+<option value="48.416667;3.266667">77480</option>
+<option value="48.833333;2.75">77600</option>
+<option value="48.933333;3.133333">77640</option>
+<option value="48.666667;3.133333">77970</option>
+<option value="48.8;3.266667">77320</option>
+<option value="48.5;3.233333">77650</option>
+<option value="48.866667;2.716667">77400</option>
+<option value="48.75;3.333333">77320</option>
+<option value="48.9;2.783333">77450</option>
+<option value="48.733333;3.266667">77320</option>
+<option value="48.633333;2.55">77127</option>
+<option value="48.616667;2.666667">77550</option>
+<option value="48.616667;2.683333">77550</option>
+<option value="48.516667;2.683333">77000</option>
+<option value="48.533333;3.183333">77650</option>
+<option value="49.016667;3.033333">77440</option>
+<option value="48.833333;2.616667">77185</option>
+<option value="48.516667;3.25">77650</option>
+<option value="48.466667;3.183333">77520</option>
+<option value="48.966667;3.183333">77138</option>
+<option value="48.2;2.7031">77570</option>
+<option value="48.866667;2.816667">77700</option>
+<option value="48.55;2.7">77950</option>
+<option value="48.866667;3">77580</option>
+<option value="48.183333;2.633333">77570</option>
+<option value="48.558333;3.15">77370</option>
+<option value="48.666667;3.316667">77560</option>
+<option value="48.933333;2.866667">77100</option>
+<option value="48.716667;2.883333">77610</option>
+<option value="49.016667;3.033333">77440</option>
+<option value="49.033333;2.583333">77990</option>
+<option value="49.066667;3.033333">77145</option>
+<option value="48.533333;2.633333">77350</option>
+<option value="48.516667;3.1">77520</option>
+<option value="48.783333;3.416667">77320</option>
+<option value="48.966667;3.2">77730</option>
+<option value="49.016667;2.6">77990</option>
+<option value="48.966667;2.7">77410</option>
+<option value="48.983333;2.616667">77290</option>
+<option value="48.55;2.733333">77950</option>
+<option value="48.616667;2.6">77550</option>
+<option value="48.483333;3.15">77520</option>
+<option value="48.35;2.85">77250</option>
+<option value="48.95;2.983333">77470</option>
+<option value="48.683333;3.433333">77151</option>
+<option value="48.3;2.7">77140</option>
+<option value="48.85;3.433333">77320</option>
+<option value="48.85;3.483333">77320</option>
+<option value="48.583333;2.666667">77950</option>
+<option value="48.866667;2.75">77144</option>
+<option value="49.016667;2.833333">77122</option>
+<option value="48.383333;3.25">77480</option>
+<option value="48.45;3.05">77520</option>
+<option value="48.333333;2.733333">77690</option>
+<option value="48.316667;2.983333">77940</option>
+<option value="48.833333;3.433333">77320</option>
+<option value="48.883333;2.833333">77450</option>
+<option value="48.366667;2.816667">77250</option>
+<option value="48.6;2.883333">77720</option>
+<option value="48.6;3.25">77160</option>
+<option value="48.416667;3.233333">77480</option>
+<option value="48.766667;3.366667">77320</option>
+<option value="48.416667;3.233333">77480</option>
+<option value="48.55;3">77370</option>
+<option value="48.25;2.816667">77710</option>
+<option value="48.983333;3.216667">77730</option>
+<option value="48.7;2.966667">77540</option>
+<option value="48.766667;2.833333">77610</option>
+<option value="48.85;2.633333">77186</option>
+<option value="48.333333;2.933333">77940</option>
+<option value="48.366667;2.5">77123</option>
+<option value="48.45;3.35">77114</option>
+<option value="48.216667;2.566667">77890</option>
+<option value="49.033333;3.066667">77440</option>
+<option value="48.9;3.233333">77750</option>
+<option value="48.716667;2.983333">77540</option>
+<option value="48.466667;3.233333">77134</option>
+<option value="48.233333;2.65">77167</option>
+<option value="49.083333;2.683333">77280</option>
+<option value="48.766667;2.666667">77330</option>
+<option value="48.6;2.916667">77720</option>
+<option value="48.65;2.766667">77390</option>
+<option value="48.233333;2.85">77710</option>
+<option value="48.45;2.866667">77830</option>
+<option value="48.483333;3.2">77520</option>
+<option value="48.416667;3.35">77480</option>
+<option value="48.65;3.083333">77970</option>
+<option value="48.9;3.033333">77580</option>
+<option value="48.716667;3.033333">77540</option>
+<option value="49.066667;3">77440</option>
+<option value="48.966667;2.933333">77470</option>
+<option value="48.816667;3.016667">77515</option>
+<option value="48.883333;2.683333">77400</option>
+<option value="48.8;2.7">77135</option>
+<option value="48.216667;2.866667">77710</option>
+<option value="48.933333;2.783333">77410</option>
+<option value="48.716667;2.75">77220</option>
+<option value="48.516667;2.566667">77310</option>
+<option value="48.6;2.966667">77720</option>
+<option value="48.9;2.883333">77860</option>
+<option value="48.55;3.066667">77370</option>
+<option value="48.6;2.616667">77550</option>
+<option value="48.85;3.233333">77510</option>
+<option value="48.216667;2.816667">77710</option>
+<option value="48.966667;3.15">77260</option>
+<option value="48.8;2.65">77680</option>
+<option value="48.683333;2.966667">77540</option>
+<option value="48.566667;2.683333">77950</option>
+<option value="48.633333;3.333333">77560</option>
+<option value="48.966667;3.216667">77730</option>
+<option value="48.866667;3.283333">77510</option>
+<option value="48.783333;3.033333">77515</option>
+<option value="48.816667;3.366667">77320</option>
+<option value="48.533333;3.25">77650</option>
+<option value="48.916667;3.183333">77750</option>
+<option value="48.833333;3.216667">77510</option>
+<option value="48.916667;2.966667">77470</option>
+<option value="48.583333;2.7">77950</option>
+<option value="48.466667;2.516667">77930</option>
+<option value="48.883333;2.85">77860</option>
+<option value="48.95;3.016667">77660</option>
+<option value="48.6;3.1">77370</option>
+<option value="48.833333;3.25">77510</option>
+<option value="48.533333;3.2">77650</option>
+<option value="48.383333;2.816667">77670</option>
+<option value="48.583333;3.433333">77560</option>
+<option value="48.733333;3.416667">77320</option>
+<option value="48.433333;2.566667">77630</option>
+<option value="48.566667;2.816667">77720</option>
+<option value="48.983333;2.7">77410</option>
+<option value="48.55;2.916667">77720</option>
+<option value="48.9;3.2">77750</option>
+<option value="49.066667;2.8">77178</option>
+<option value="48.433333;3.2">77480</option>
+<option value="48.483333;2.55">77930</option>
+<option value="49.033333;2.8">77165</option>
+<option value="48.866667;2.683333">77400</option>
+<option value="48.416667;3.016667">77148</option>
+<option value="48.95;3.083333">77260</option>
+<option value="48.45;2.75">77920</option>
+<option value="48.7;3.383333">77320</option>
+<option value="48.566667;2.583333">77176</option>
+<option value="48.516667;3.2">77650</option>
+<option value="48.55;2.55">77240</option>
+<option value="48.933333;3.1">77260</option>
+<option value="48.85;2.783333">77700</option>
+<option value="48.933333;3.066667">77640</option>
+<option value="48.466667;3.183333">77520</option>
+<option value="48.533333;2.75">77115</option>
+<option value="48.516667;3.166667">77520</option>
+<option value="48.516667;3.3">77650</option>
+<option value="48.65;2.716667">77111</option>
+<option value="48.183333;2.733333">77460</option>
+<option value="49  3.;5">77440</option>
+<option value="48.483333;3.183333">77520</option>
+<option value="48.4;2.783333">77810</option>
+<option value="48.883333;2.716667">77400</option>
+<option value="48.283333;2.95">77156</option>
+<option value="48.85;2.65">77200</option>
+<option value="48.733333;3.016667">77131</option>
+<option value="48.883333;3.25">77510</option>
+<option value="48.283333;2.8">77710</option>
+<option value="48.95;2.8">77450</option>
+<option value="48.95;2.95">77470</option>
+<option value="49.05;2.966667">77440</option>
+<option value="48.95;3.083333">77260</option>
+<option value="48.866667;2.65">77360</option>
+<option value="48.433333;2.883333">77830</option>
+<option value="48.55;3.1">77370</option>
+<option value="49  2.;3">77910</option>
+<option value="48.9;2.95">77580</option>
+<option value="48.683333;3.083333">77141</option>
+<option value="48.216667;2.933333">77710</option>
+<option value="49.05;3.1">77440</option>
+<option value="48.366667;2.8">77250</option>
+<option value="48.866667;3.366667">77510</option>
+<option value="48.633333;2.833333">77390</option>
+<option value="48.566667;2.616667">77240</option>
+<option value="48.583333;3.133333">77370</option>
+<option value="48.733333;3.35">77320</option>
+<option value="48.933333;2.816667">77450</option>
+<option value="48.683333;2.916667">77540</option>
+<option value="48.2;2.933333">77710</option>
+<option value="48.333333;2.85">77250</option>
+<option value="48.666667;3.183333">77970</option>
+<option value="48.6;3.466667">77560</option>
+<option value="48.266667;2.866667">77710</option>
+<option value="48.916667;2.983333">77470</option>
+<option value="48.3;2.833333">77250</option>
+<option value="48.4;3.3">77480</option>
+<option value="48.816667;2.8">77174</option>
+<option value="48.866667;3.35">77510</option>
+<option value="48.933333;2.616667">77270</option>
+<option value="48.983333;2.783333">77410</option>
+<option value="48.916667;2.65">77410</option>
+<option value="48.483333;2.6">77190</option>
+<option value="48.65;3.416667">77560</option>
+<option value="48.866667;2.9">77580</option>
+<option value="48.416667;3.35">77480</option>
+<option value="48.433333;3.166667">77520</option>
+<option value="49.016667;2.733333">77230</option>
+<option value="48.683333;3">77540</option>
+<option value="48.566667;2.666667">77950</option>
+<option value="48.866667;2.9">77580</option>
+<option value="48.616667;3.333333">77560</option>
+<option value="48.283333;2.966667">77940</option>
+<option value="48.433333;2.766667">77870</option>
+<option value="48.633333;2.766667">77390</option>
+<option value="48.533333;2.55">77310</option>
+<option value="48.883333;2.591667">77500</option>
+<option value="48.766667;2.6">77340</option>
+<option value="48.716667;2.666667">77173</option>
+        </select> 
+      </div>
+      </div>
+      <div class="control-group">
+        <label class="control-label" for="inputExamen">Examen </label>
+        <div class="controls">
+        <select class="span2 chzn-select" id="selectExamen" id="selectPostalcode" data-placeholder="Choisis ton examen">
+          <option value="code"></option>
+          <option value="code">Code de la route</option>
+          <option value="b">Permis B</option>
+        </select> 
+      </div>
+      </div>
+      <div class="control-group">
+       <label class="control-label" for="selectFail">Je l'ai raté ... </label>
+        <div class="controls">
+        <select class="span1" id="selectFail">
+          <option>0 fois !</option>
+          <option>1 fois</option>
+          <option>2 fois</option>
+          <option>3 fois</option>
+          <option>plus ...</option>
+        </select>
+      </div>
+      </div> 
+      </form>
+    </div>
+    </div>
+    <div class="modal-footer align-modal">
+      <button class="btn btn-primary" onclick="search(); return false;">Je trouve mon auto-école</button>
+    </div>
+  </div>
+
+<div id="aboutModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">A propos</h3>
+  </div>
+  <div class="modal-body">
+    <p>VroomVroom.fr a été développé à l'occasion du <a href="http://launch.datackathon.com/" target="_blank">Datackathon</a> par <a href="https://twitter.com/vanessa_pasquet" target="_blank">Vanessa Pasquet</a>, <a href="http://twitter.com/nebj9" target="_blank"> Benjamin Lan Sun Luk</a> et <a href="http://www.twitter.com/edschlum" target="_blank">Edouard Schlumberger</a>. Les données disponibles sont fournies par les Préfèctures et les Directions Départementales du Territoire françaises. <br /><br />
+    Il manque une auto-école ou un taux de réussite ? N'hésitez pas à nous contacter directement sur <a href="http://www.twitter.com/edschlum" target="_blank">Twitter</a> !</p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Fermer</button>
+  </div>
+</div>
+
+
+  <div id='map'></div>
+  <div id="sidebar">
+    <div class="content">
+      <h2 class="title"></h2>
+      <div class="adresse"></div>
+      <span class="codepostal"></span> - <span class="ville"></span>
+     <div class="tel"></div>
+    </div>
+        <hr>
+    <div class="content">
+      <!-- EXAM 1 -->
+    <div class="intro">
+      <span class="exam" style="font-size:25px"></span> <span class="first_pres_text small-prez"></span> 
+    </div>
+    <div class="intro">
+      <strong><img src="public/img/star_success.svg" width="20" height="20"> <span class="first_pres"></span> %</strong>
+     </div>
+        <div class="intro" rel="tooltip" title="Nombre de candidats qui passe le permis pour la première fois">
+      <strong><img src="public/img/candidats.svg" width="20" height="20"> <span class="first_candidats"></span> candidats</strong>
+     </div>     
+     <div class="intro" rel="tooltip" title="Le coût estimé du permis de conduire s'appuie sur les estimations nationales (1 500€ en moyenne pour obtenir son permis en première présentation.">
+      <strong><img src="public/img/euro.svg" width="20" height="20"> <span class="first_cost"></span> €</strong> (<strong><span id="first-minus" class="color-success" style="display:none;">-</span><span id="first-plus" class="color-fail" style="display:none;">+</span><span class="first_ecart"></span> %</strong>)
+     </div>
+     <hr>
+      <!-- EXAM 1 FIN -->
+      <!-- EXAM 2 -->
+    <div class="intro">
+      <span class="exam" style="font-size:25px"></span> <span class="second_pres_text small-prez"></span> 
+    </div>  
+    <div class="intro">
+      <strong><img src="public/img/star_success.svg" width="20" height="20"> <span class="second_pres"></span> %</strong>
+     </div>
+        <div class="intro" rel="tooltip" title="Nombre de candidats qui passe le permis pour la deuxième fois ou plus.">
+      <strong><img src="public/img/candidats.svg" width="20" height="20"> <span class="second_candidats"></span> candidats</strong>
+     </div>       
+     <div class="intro" rel="tooltip" title="Ce chiffre est une estimation du surcoût provoqué par le second passage du permis de conduire (heure supplémentaire, frais d'inscription ...)">
+      <strong><img src="public/img/euro.svg" width="20" height="20"> <span class="second_cost"></span> €</strong> (<strong><span id="second-minus" class="color-success" style="display:none;">-</span><span id="second-plus" class="color-fail" style="display:none;">+</span><span class="second_ecart"></span> %</strong>)
+     </div>
+     <hr>
+     <!-- EXAM 2 FIN -->
+     </div>
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=147380848750628";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+     <div id="social-content">
+<div class="fb-like" data-href="https://www.facebook.com/VroomVroom.fr" data-send="false" data-width="200" data-show-faces="true"></div>
+          <div id="twitter">
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.vroomvroom.fr" data-text="Je vais apprendre à conduire grâce à VroomVroom.fr !" data-lang="fr">Tweeter</a>
+          </div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+      <br />
+<div class="footer horizontal-menu horizontal-menu-map">
+  <ul>
+    <li>
+      <a data-toggle="modal" role="button" href="#aboutModal">A propos</a> - <a data-toggle="modal" role="button" href="#search-modal">Autre recherche</a><br /> 
+    </li>
+    <li>
+      VroomVroom.fr &copy; 2013
+    </li>
+  </ul>
+</div>
+    </div
+    <hr>
+    <div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    $(".chzn-select").chosen({no_results_text: "Pas de résultat trouvé"});
+    $(".chzn-select").chosen({limit: 5});
+
+    $('#search-modal').modal({
+      backdrop: 'static',
+      keyboard: false,
+    });
+    $('.intro').tooltip();
+    var map = mapbox.map('map');
+    map.addLayer(mapbox.layer().id('edschlum.map-g4e3nfag'));
+    map.centerzoom({ lat: 46.00, lon: 2.00 }, 7);
+
+    // Layer for POIs
+    var markerLayer = mapbox.markers.layer();
+    // Tooltip for POIs
+    var interaction = mapbox.markers.interaction(markerLayer);
+    interaction.formatter(function(feature) {
+      var o = '<span class="autoecole-title">' + feature.properties.title + '</span>';
+      return o;
+    });
+    map.addLayer(markerLayer);
+
+    map.ui.zoomer.add();
+
+    // Events for clicks
+    var sidebar = $('#sidebar');
+    markerLayer.factory(function(f) {
+      var elem = mapbox.markers.simplestyle_factory(f);
+              // Fill content          
+        var title = $('.title', sidebar);
+        var adresse = $('.adresse', sidebar);
+        var codepostal = $('.codepostal', sidebar);
+        var tel = $('.tel', sidebar);
+        var ville = $('.ville', sidebar);
+        var exam = $('.exam', sidebar);
+        var first_pres = $('.first_pres', sidebar);
+        var first_pres_text = $('.first_pres_text', sidebar);
+        var first_cost = $('.first_cost', sidebar);
+        var second_pres = $('.second_pres', sidebar);
+        var second_pres_text = $('.second_pres_text', sidebar);
+        var second_cost = $('.second_cost', sidebar);
+        var first_ecart = $('.first_ecart', sidebar);
+        var second_ecart = $('.second_ecart', sidebar);
+        var first_candidats = $('.first_candidats', sidebar);
+        var second_candidats = $('.second_candidats', sidebar);
+
+      MM.addEvent(elem, 'click', function(e) {
+        title.html(f.properties.title);
+        adresse.html(f.properties.adresse);
+        codepostal.html(parseInt(f.properties.codepostal));
+        tel.html(f.properties.tel);
+        ville.html(f.properties.ville);
+        exam.html(f.properties.exam);
+        first_pres.html(f.properties.first_pres);
+        first_pres_text.html(f.properties.first_pres_text);        
+        first_cost.html(f.properties.first_cost);
+        second_pres_text.html(f.properties.second_pres_text);
+        second_pres.html(f.properties.second_pres);
+        second_cost.html(f.properties.second_cost);
+        first_ecart.html(f.properties.first_ecart);
+        second_ecart.html(f.properties.second_ecart);
+        first_candidats.html(parseInt(f.properties.first_total_candidats));
+        second_candidats.html(parseInt(f.properties.second_total_candidats));       
+
+        if (f.properties.first_cost <= 1500) 
+        {
+          $('#first-minus', sidebar).show();
+          $('#first-plus', sidebar).hide();
+          $('.first_ecart', sidebar).addClass("color-success");
+          $('.first_ecart', sidebar).removeClass("color-fail");
+        } else {
+          $('#first-plus', sidebar).show();
+          $('#first-minus', sidebar).hide();
+          $('.first_ecart', sidebar).addClass("color-fail");
+          $('.first_ecart', sidebar).removeClass("color-success");
+        }
+
+        if (f.properties.second_cost <= 600) 
+        {
+          $('#second-minus', sidebar).show();
+          $('#second-plus', sidebar).hide();
+          $('.second_ecart', sidebar).addClass("color-success");
+          $('.second_ecart', sidebar).removeClass("color-fail");
+        } else {
+          $('#second-plus', sidebar).show();
+          $('#second-minus', sidebar).hide();
+          $('.second_ecart', sidebar).addClass("color-fail");
+          $('.second_ecart', sidebar).removeClass("color-success");
+        }
+
+        showSidebar();
+
+
+        // Easing to POIs
+        map.ease.location({
+          lat: f.geometry.coordinates[1],
+          lon: f.geometry.coordinates[0]
+        }).zoom(14).optimal();
+
+        e.stopPropagation();
+      });
+      return elem;
+    });
+    MM.addEvent(map.parent, 'click', function() {
+      hideSidebar();
+    });
+
+    $.each(autoecole_data, function(i, elem) {
+      elem.properties.first_pres = Math.round(elem.properties.first_pres * 10000)/100;
+      elem.properties.second_pres = Math.round(elem.properties.second_pres * 10000)/100;
+      elem.properties.first_cost = Math.round(elem.properties.first_cost);
+      if (elem.properties.first_cost < 1000) elem.properties.first_cost = 1000;
+      elem.properties.second_cost = Math.round(elem.properties.second_cost);
+      if (elem.properties.second_cost < 1000) elem.properties.second_cost = 1000;
+
+      elem.properties.first_ecart = Math.round(parseFloat((1 - (elem.properties.first_cost / 1500)) * 10000)) / 100;
+      elem.properties.second_ecart = Math.round(parseFloat((1 - (elem.properties.second_cost / 600)) * 10000)) / 100;
+      elem.properties.first_ecart = Math.abs(elem.properties.first_ecart);
+      elem.properties.second_ecart = Math.abs(elem.properties.second_ecart);
+
+      elem.properties['marker-color'] = '#000';
+      elem.properties['marker-symbol'] = 'star-stroked';
+
+      markerLayer.add_feature(elem);
+    });
+
+  </script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38229531-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
