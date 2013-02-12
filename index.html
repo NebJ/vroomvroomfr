@@ -19,8 +19,8 @@
                                 // we do not interrupt execution of other Javascript code
                         }
                 </script>
-  <script src='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js'></script>
-  <link href='http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css' rel='stylesheet' />
+  <script src="http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.js"></script>
+  <link href="http://api.tiles.mapbox.com/mapbox.js/v0.6.7/mapbox.css" rel="stylesheet" />
   <link href="public/css/bootstrap.css" rel="stylesheet">
   <link href="public/css/sidebar.css" rel="stylesheet">
   <link href="public/css/style.css" rel="stylesheet">
@@ -480,7 +480,7 @@
       elem.properties.first_cost = Math.round(elem.properties.first_cost);
       if (elem.properties.first_cost < 1000) elem.properties.first_cost = 1000;
       elem.properties.second_cost = Math.round(elem.properties.second_cost);
-      if (elem.properties.second_cost < 1000) elem.properties.second_cost = 1000;
+      if (elem.properties.second_cost > 1000) elem.properties.second_cost = 1000;
 
       elem.properties.first_ecart = Math.round(parseFloat((1 - (elem.properties.first_cost / 1500)) * 10000)) / 100;
       elem.properties.second_ecart = Math.round(parseFloat((1 - (elem.properties.second_cost / 600)) * 10000)) / 100;
