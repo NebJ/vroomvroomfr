@@ -6,7 +6,7 @@ function search () {
   ];
   window.exam = $('#search-modal #selectExamen').val();
 
-  var limit = 0.05;
+  var limit = 0.08;
   var markers = markerLayer.markers();
   var min_price = 99999999;
   var selected_poi = null;
