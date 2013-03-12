@@ -1,1109 +1,1109 @@
-autoecole_data = [
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2255724, 2.06195009999999]},
-  "properties": {
-    "title": "LAURENT FORMATION",
-    "adresse": "7 av Henri Brisson",
-    "codepostal": "18100.0",
-    "tel": "02 48 71 21 12",
-    "ville": "Vierzon",
-    "exam": "Permis B",
-    "first_pres": "0.6493",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1315.125",
-    "first_total_candidats" : "134.0",
-    "second_pres": "0.6710526315789473",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "894.736842105263",
-    "second_total_candidats" : "76.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800350.0",
-    "total_candidats" : "210.0",   
-    "total_reussi" : "138.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0841474, 2.392925699999978]},
-  "properties": {
-    "title": "AUTO ECOLE JACQUES COEUR ",
-    "adresse": "22 rue Arènes",
-    "codepostal": "18000.0",
-    "tel": "02 48 24 43 78",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.6",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1500.0",
-    "first_total_candidats" : "40.0",
-    "second_pres": "0.6818181818181818",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "909.090909090909",
-    "second_total_candidats" : "22.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800380.0",
-    "total_candidats" : "62.0",   
-    "total_reussi" : "39.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.215335, 2.4159855000000334]},
-  "properties": {
-    "title": "SAINT-MARTIN AUTO ECOLE ",
-    "adresse": "15 rue Commerce",
-    "codepostal": "18110.0",
-    "tel": "02 48 64 63 93",
-    "ville": "Saint Martin d'Auxigny",
-    "exam": "Permis B",
-    "first_pres": "0.5",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1875.0",
-    "first_total_candidats" : "2.0",
-    "second_pres": "0.0",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "0.0",
-    "second_total_candidats" : "0.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800810.0",
-    "total_candidats" : "2.0",   
-    "total_reussi" : "1.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.09751, 2.41309]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE TURLY",
-    "adresse": "8 rue Baptiste Marcet",
-    "codepostal": "18000.0",
-    "tel": "02 48 65 74 07",
-    "ville": "BOURGES",
-    "exam": "Permis B",
-    "first_pres": "0.5294",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1764.7499999999998",
-    "first_total_candidats" : "34.0",
-    "second_pres": "0.42857142857142855",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "571.4285714285714",
-    "second_total_candidats" : "35.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800860.0",
-    "total_candidats" : "69.0",   
-    "total_reussi" : "33.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2301063, 2.049182999999971]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE DU GRELET",
-    "adresse": "3 rue Léo Mérigot",
-    "codepostal": "18100.0",
-    "tel": "02 48 71 26 17",
-    "ville": "Vierzon",
-    "exam": "Permis B",
-    "first_pres": "0.8235",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "661.875",
-    "first_total_candidats" : "17.0",
-    "second_pres": "0.6363636363636364",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "848.4848484848485",
-    "second_total_candidats" : "11.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800880.0",
-    "total_candidats" : "28.0",   
-    "total_reussi" : "21.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.224992, 2.062248899999986]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE MODERNE ",
-    "adresse": "4 place Gabriel Péri",
-    "codepostal": "18100.0",
-    "tel": "02 48 71 39 76",
-    "ville": "VIERZON",
-    "exam": "Permis B",
-    "first_pres": "0.604",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1485.0",
-    "first_total_candidats" : "101.0",
-    "second_pres": "0.5492957746478874",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "732.3943661971831",
-    "second_total_candidats" : "71.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1800920.0",
-    "total_candidats" : "172.0",   
-    "total_reussi" : "100.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0758794, 2.401279700000032]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE SERAUCOURT ",
-    "adresse": "71 rue Séraucourt",
-    "codepostal": "18000.0",
-    "tel": "02 48 21 04 05",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.6395",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1351.8750000000002",
-    "first_total_candidats" : "172.0",
-    "second_pres": "0.5454545454545454",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "727.2727272727273",
-    "second_total_candidats" : "121.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801100.0",
-    "total_candidats" : "293.0",   
-    "total_reussi" : "176.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.994156, 2.249002399999995]},
-  "properties": {
-    "title": "AUTO-ECOLE DU TACOT ",
-    "adresse": "41 avenue Gabriel Dordain",
-    "codepostal": "18400.0",
-    "tel": "02 48 55 69 45",
-    "ville": "SAINT FLORENT SUR CHER",
-    "exam": "Permis B",
-    "first_pres": "0.4706",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1985.25",
-    "first_total_candidats" : "85.0",
-    "second_pres": "0.44329896907216493",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "591.0652920962199",
-    "second_total_candidats" : "97.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801120.0",
-    "total_candidats" : "182.0",   
-    "total_reussi" : "83.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2218426, 2.069759999999974]},
-  "properties": {
-    "title": "STOP AUTO-ECOLE VIERZON ",
-    "adresse": "28 rue Armand Brunet",
-    "codepostal": "18100.0",
-    "tel": "02 48 75 34 06",
-    "ville": "VIERZON",
-    "exam": "Permis B",
-    "first_pres": "0.5656",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1629.0",
-    "first_total_candidats" : "244.0",
-    "second_pres": "0.46632124352331605",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "621.761658031088",
-    "second_total_candidats" : "193.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801140.0",
-    "total_candidats" : "437.0",   
-    "total_reussi" : "228.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.028961, 3.02899]},
-  "properties": {
-    "title": "DANGUIS AUTO-ECOLE ",
-    "adresse": "6 route Jouet",
-    "codepostal": "18320.0",
-    "tel": "02 48 76 43 65",
-    "ville": "COURS LES BARRES",
-    "exam": "Permis B",
-    "first_pres": "0.6275",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1396.8750000000002",
-    "first_total_candidats" : "51.0",
-    "second_pres": "0.6842105263157895",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "912.280701754386",
-    "second_total_candidats" : "38.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801170.0",
-    "total_candidats" : "89.0",   
-    "total_reussi" : "58.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.4715406, 2.8736010999999735]},
-  "properties": {
-    "title": "AUTO ECOLE MILLIARD ",
-    "adresse": "32 Grande Rue",
-    "codepostal": "18240.0",
-    "tel": "02 48 72 56 37",
-    "ville": "LERE",
-    "exam": "Permis B",
-    "first_pres": "0.7308",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1009.5",
-    "first_total_candidats" : "26.0",
-    "second_pres": "0.7142857142857143",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "952.3809523809523",
-    "second_total_candidats" : "14.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801210.0",
-    "total_candidats" : "40.0",   
-    "total_reussi" : "29.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0997932, 2.4815106999999443]},
-  "properties": {
-    "title": "ST-GERMAIN AUTO ECOLE",
-    "adresse": "21 route Ste Solange",
-    "codepostal": "18390.0",
-    "tel": "02 48 30 74 38",
-    "ville": "SAINT GERMAIN DU PUY",
-    "exam": "Permis B",
-    "first_pres": "0.6322",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1379.25",
-    "first_total_candidats" : "174.0",
-    "second_pres": "0.5321100917431193",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "709.480122324159",
-    "second_total_candidats" : "109.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801220.0",
-    "total_candidats" : "283.0",   
-    "total_reussi" : "168.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.9504834, 2.9463599000000613]},
-  "properties": {
-    "title": "SIM AUTO-ECOLE ",
-    "adresse": "38 r Henri Barbusse",
-    "codepostal": "18150.0",
-    "tel": "02 48 77 00 74",
-    "ville": "LA GUERCHE SUR L'AUBOIS",
-    "exam": "Permis B",
-    "first_pres": "0.8305",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "635.6249999999999",
-    "first_total_candidats" : "59.0",
-    "second_pres": "0.7894736842105263",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "1052.6315789473683",
-    "second_total_candidats" : "19.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801410.0",
-    "total_candidats" : "78.0",   
-    "total_reussi" : "64.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.4830577, 2.4381829000000153]},
-  "properties": {
-    "title": "AUTO-ECOLE PAUTRAT",
-    "adresse": "57 Ter avenue Général Leclerc",
-    "codepostal": "18700.0",
-    "tel": "02 48 58 06 21",
-    "ville": "AUBIGNY SUR NERE",
-    "exam": "Permis B",
-    "first_pres": "0.7255",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1029.3749999999998",
-    "first_total_candidats" : "102.0",
-    "second_pres": "0.5384615384615384",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "717.9487179487179",
-    "second_total_candidats" : "52.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801420.0",
-    "total_candidats" : "154.0",   
-    "total_reussi" : "102.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0703196, 2.376688100000024]},
-  "properties": {
-    "title": "ROYAL AUTO-ECOLE ",
-    "adresse": "120 avenue Marcel Haegelen",
-    "codepostal": "18000.0",
-    "tel": "02 48 50 07 58",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.7037",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1111.125",
-    "first_total_candidats" : "108.0",
-    "second_pres": "0.6417910447761194",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "855.7213930348258",
-    "second_total_candidats" : "67.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801450.0",
-    "total_candidats" : "175.0",   
-    "total_reussi" : "119.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.045338, 2.9882350000000315]},
-  "properties": {
-    "title": "SAEVA EURL LA JOUETTOISE ",
-    "adresse": "7 place Daumy",
-    "codepostal": "18320.0",
-    "tel": "02 48 76 49 61",
-    "ville": "JOUET SUR L'AUBOIS",
-    "exam": "Permis B",
-    "first_pres": "0.6486",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1317.75",
-    "first_total_candidats" : "37.0",
-    "second_pres": "0.5",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "666.6666666666666",
-    "second_total_candidats" : "32.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801510.0",
-    "total_candidats" : "69.0",   
-    "total_reussi" : "40.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.099991, 2.415718]},
-  "properties": {
-    "title": "STOP AUTO ECOLE BLASQUEZ",
-    "adresse": "avenue Mar de Lattre de Tassigny",
-    "codepostal": "18000.0",
-    "tel": "02 48 24 61 97",
-    "ville": "BOURGES",
-    "exam": "Permis B",
-    "first_pres": "0.6348",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1369.4999999999998",
-    "first_total_candidats" : "397.0",
-    "second_pres": "0.5756302521008403",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "767.5070028011204",
-    "second_total_candidats" : "238.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801530.0",
-    "total_candidats" : "635.0",   
-    "total_reussi" : "389.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2019319, 2.081747500000006]},
-  "properties": {
-    "title": "CHAILLOT AUTO-ECOLE",
-    "adresse": "118 route Bellon",
-    "codepostal": "18100.0",
-    "tel": "02 48 71 18 37",
-    "ville": "Vierzon",
-    "exam": "Permis B",
-    "first_pres": "0.5349",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1744.1249999999998",
-    "first_total_candidats" : "43.0",
-    "second_pres": "0.8695652173913043",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "1159.4202898550725",
-    "second_total_candidats" : "23.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801620.0",
-    "total_candidats" : "66.0",   
-    "total_reussi" : "43.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2175765, 2.0996035000000575]},
-  "properties": {
-    "title": "NG CONDUITE ",
-    "adresse": "49 r Etienne Marcel",
-    "codepostal": "18100.0",
-    "tel": "02 48 51 71 18",
-    "ville": "Vierzon",
-    "exam": "Permis B",
-    "first_pres": "0.6154",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1442.2500000000002",
-    "first_total_candidats" : "26.0",
-    "second_pres": "0.52",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "693.3333333333334",
-    "second_total_candidats" : "25.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801630.0",
-    "total_candidats" : "51.0",   
-    "total_reussi" : "29.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.083889, 2.38886]},
-  "properties": {
-    "title": "AUTO-ECOLE CER JURANVILLE",
-    "adresse": "1 bis bd Juranville",
-    "codepostal": "18000.0",
-    "tel": "02 48 24 97 27",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.6017",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1493.6249999999998",
-    "first_total_candidats" : "354.0",
-    "second_pres": "0.49603174603174605",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "661.3756613756615",
-    "second_total_candidats" : "252.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801690.0",
-    "total_candidats" : "606.0",   
-    "total_reussi" : "338.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.3297573, 2.839215999999965]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE THERET",
-    "adresse": "3 place Panneterie",
-    "codepostal": "18300.0",
-    "tel": "02 48 78 00 75",
-    "ville": "Sancerre",
-    "exam": "Permis B",
-    "first_pres": "0.7667",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "874.8749999999998",
-    "first_total_candidats" : "30.0",
-    "second_pres": "0.6666666666666666",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "888.8888888888889",
-    "second_total_candidats" : "15.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801720.0",
-    "total_candidats" : "45.0",   
-    "total_reussi" : "33.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.8847588, 2.5740696999999955]},
-  "properties": {
-    "title": "STOP AUTO-ECOLE BLASQUEZ DUN",
-    "adresse": "10 rue Michelet",
-    "codepostal": "18130.0",
-    "tel": "02 48 59 51 72",
-    "ville": "Dun",
-    "exam": "Permis B",
-    "first_pres": "0.0",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "3750.0",
-    "first_total_candidats" : "1.0",
-    "second_pres": "0.0",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "0.0",
-    "second_total_candidats" : "2.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801770.0",
-    "total_candidats" : "3.0",   
-    "total_reussi" : "0.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0862904, 2.3987597999999934]},
-  "properties": {
-    "title": "ECF-CENTRE ATLANTIQUE BOURGES",
-    "adresse": "18 rue Jean Girard",
-    "codepostal": "18000.0",
-    "tel": "02 43 21 41 46",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.5676",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1621.5",
-    "first_total_candidats" : "74.0",
-    "second_pres": "0.5",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "666.6666666666666",
-    "second_total_candidats" : "66.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801790.0",
-    "total_candidats" : "140.0",   
-    "total_reussi" : "75.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.4869667, 2.4377684999999474]},
-  "properties": {
-    "title": "AUTO-ECOLE MOLENAT",
-    "adresse": "6 rue Etienne Soyer",
-    "codepostal": "18700.0",
-    "tel": "02 48 58 96 15",
-    "ville": "Aubigny sur Nère",
-    "exam": "Permis B",
-    "first_pres": "0.6071",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1473.375",
-    "first_total_candidats" : "56.0",
-    "second_pres": "0.47619047619047616",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "634.9206349206349",
-    "second_total_candidats" : "42.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801830.0",
-    "total_candidats" : "98.0",   
-    "total_reussi" : "54.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.9947344, 2.250174099999981]},
-  "properties": {
-    "title": "PRESTIGE FORMATION AUTO-ECOLE",
-    "adresse": "67 av Gabriel Dordain",
-    "codepostal": "18400.0",
-    "tel": "02 48 55 64 95",
-    "ville": "SAINT FLORENT SUR CHER",
-    "exam": "Permis B",
-    "first_pres": "0.5641",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1634.6249999999998",
-    "first_total_candidats" : "78.0",
-    "second_pres": "0.5789473684210527",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "771.9298245614036",
-    "second_total_candidats" : "57.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801850.0",
-    "total_candidats" : "135.0",   
-    "total_reussi" : "77.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.08538, 2.390385]},
-  "properties": {
-    "title": "CENTRE DE FORMATION PROF. MALUS",
-    "adresse": "ZAC Echangeur",
-    "codepostal": "18000.0",
-    "tel": "02 48 21 12 93",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.6471",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1323.375",
-    "first_total_candidats" : "34.0",
-    "second_pres": "0.8",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "1066.6666666666667",
-    "second_total_candidats" : "20.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801860.0",
-    "total_candidats" : "54.0",   
-    "total_reussi" : "38.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.3394288, 2.856184100000064]},
-  "properties": {
-    "title": "AUTO MOTO-SECURITE - AMS 18",
-    "adresse": "19 rue Commerce",
-    "codepostal": "18300.0",
-    "tel": "02 48 54 01 51",
-    "ville": "Saint Satur ",
-    "exam": "Permis B",
-    "first_pres": "0.6176",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1433.9999999999998",
-    "first_total_candidats" : "34.0",
-    "second_pres": "0.5161290322580645",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "688.1720430107526",
-    "second_total_candidats" : "31.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801870.0",
-    "total_candidats" : "65.0",   
-    "total_reussi" : "37.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0790891, 2.4002089000000524]},
-  "properties": {
-    "title": "STOP AUTO ECOLE BLASQUEZ BOURGES",
-    "adresse": "6 rue Jean Baffier",
-    "codepostal": "18000.0",
-    "tel": "02 48 20 15 66",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.63",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1387.5",
-    "first_total_candidats" : "100.0",
-    "second_pres": "0.5081967213114754",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "677.5956284153006",
-    "second_total_candidats" : "61.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801880.0",
-    "total_candidats" : "161.0",   
-    "total_reussi" : "94.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.0745543, 2.408466800000042]},
-  "properties": {
-    "title": "AMG AUTO ECOLE",
-    "adresse": "113 r Jean Baffier",
-    "codepostal": "18000.0",
-    "tel": "02 48 50 12 33",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.5918",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1530.7499999999998",
-    "first_total_candidats" : "98.0",
-    "second_pres": "0.49230769230769234",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "656.4102564102565",
-    "second_total_candidats" : "65.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801900.0",
-    "total_candidats" : "163.0",   
-    "total_reussi" : "90.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.1447967], 2.2210878999999295},
-  "properties": {
-    "title": "AE CER JURANVILLE CER MEHUN",
-    "adresse": "190 r Jeanne d'Arc",
-    "codepostal": "18500.0",
-    "tel": "02 48 57 12 12",
-    "ville": "Mehun sur Yèvre",
-    "exam": "Permis B",
-    "first_pres": "0.5222",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1791.75",
-    "first_total_candidats" : "90.0",
-    "second_pres": "0.5316455696202531",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "708.8607594936708",
-    "second_total_candidats" : "79.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801910.0",
-    "total_candidats" : "169.0",   
-    "total_reussi" : "89.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.8312945, 2.9199214999999867]},
-  "properties": {
-    "title": "STOP AUTO ECOLE BLASQUEZ SANCOIN",
-    "adresse": "5 rue Fernand Duruisseau",
-    "codepostal": "18600.0",
-    "tel": "02 48 74 59 85",
-    "ville": "Sancoins",
-    "exam": "Permis B",
-    "first_pres": "0.5571",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1660.8749999999998",
-    "first_total_candidats" : "70.0",
-    "second_pres": "0.46938775510204084",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "625.8503401360545",
-    "second_total_candidats" : "49.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801920.0",
-    "total_candidats" : "119.0",   
-    "total_reussi" : "62.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.1035002, 2.377144199999975]},
-  "properties": {
-    "title": "TIB AND CO",
-    "adresse": "17 Bis avenue Pasteur",
-    "codepostal": "18230.0",
-    "tel": "02 48 65 66 34",
-    "ville": "SAINT DOULCHARD",
-    "exam": "Permis B",
-    "first_pres": "0.537",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1736.25",
-    "first_total_candidats" : "54.0",
-    "second_pres": "0.4489795918367347",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "598.639455782313",
-    "second_total_candidats" : "49.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801940.0",
-    "total_candidats" : "103.0",   
-    "total_reussi" : "51.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.08538, 2.390385]},
-  "properties": {
-    "title": "STOP AUTOECOLE BLASQUEZ GIBJONCS",
-    "adresse": "Centre commercial Gibjoncs",
-    "codepostal": "18000.0",
-    "tel": "02 48 24 61 97",
-    "ville": "Bourges",
-    "exam": "Permis B",
-    "first_pres": "0.6721",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1229.6249999999998",
-    "first_total_candidats" : "122.0",
-    "second_pres": "0.5510204081632653",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "734.6938775510204",
-    "second_total_candidats" : "98.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801950.0",
-    "total_candidats" : "220.0",   
-    "total_reussi" : "136.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.9973923, 2.8205758999999944]},
-  "properties": {
-    "title": "ECOLE DE CONDUITE NERONDAISE",
-    "adresse": "29 Grande Rue",
-    "codepostal": "18350.0",
-    "tel": "02 48 74 94 77",
-    "ville": "NERONDES",
-    "exam": "Permis B",
-    "first_pres": "0.5769",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1586.6250000000002",
-    "first_total_candidats" : "26.0",
-    "second_pres": "0.4523809523809524",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "603.174603174603",
-    "second_total_candidats" : "42.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1801970.0",
-    "total_candidats" : "68.0",   
-    "total_reussi" : "34.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.5610553, 2.4470876000000317]},
-  "properties": {
-    "title": "AUTO ECOLE CHALLENGER",
-    "adresse": "23 rue Nationale",
-    "codepostal": "18410.0",
-    "tel": "02 48 81 13 30",
-    "ville": " ARGENT SUR SAULDRE",
-    "exam": "Permis B",
-    "first_pres": "0.459",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "2028.7499999999995",
-    "first_total_candidats" : "61.0",
-    "second_pres": "0.3548387096774194",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "473.1182795698925",
-    "second_total_candidats" : "62.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1802000.0",
-    "total_candidats" : "123.0",   
-    "total_reussi" : "50.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.2000169, 2.5724622999999838]},
-  "properties": {
-    "title": "AUTO ECOLE LES AIX D'ANGILLON",
-    "adresse": "4 place Général de Gaulle",
-    "codepostal": "18220.0",
-    "tel": "02 48 20 48 60",
-    "ville": "Les  Aix d'Angillon",
-    "exam": "Permis B",
-    "first_pres": "0.5161",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1814.625",
-    "first_total_candidats" : "31.0",
-    "second_pres": "0.6774193548387096",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "903.2258064516128",
-    "second_total_candidats" : "31.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1802010.0",
-    "total_candidats" : "62.0",   
-    "total_reussi" : "37.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [47.4869667, 2.4377684999999474]},
-  "properties": {
-    "title": "AUTO ECOLE MOLENAT AUBIGNY",
-    "adresse": "6 r Etienne Soyer",
-    "codepostal": "18700.0",
-    "tel": "02 48 58 96 15",
-    "ville": "Aubigny sur Nère",
-    "exam": "Permis B",
-    "first_pres": "0.6316",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "1381.4999999999998",
-    "first_total_candidats" : "19.0",
-    "second_pres": "0.7272727272727273",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "969.6969696969697",
-    "second_total_candidats" : "11.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1802020.0",
-    "total_candidats" : "30.0",   
-    "total_reussi" : "20.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
-
-{
-  "type": "Feature",
-  "geometry": {"type": "Point", "coordinates": [46.9947344, 2.250174099999981]},
-  "properties": {
-    "title": "PRESTIGE FORMATION AUTO ECOLE",
-    "adresse": "67 av Gabriel Dordain",
-    "codepostal": "18400.0",
-    "tel": "02 48 55 64 95",
-    "ville": "SAINT FLORENT SUR CHER",
-    "exam": "Permis B",
-    "first_pres": "",
-    "first_pres_text":"1ere presentation",
-    "first_cost": "3750.0",
-    "first_total_candidats" : "0.0",
-    "second_pres": "0.0",
-    "second_pres_text":"2eme presentation ou plus",
-    "second_cost": "0.0",
-    "second_total_candidats" : "2.0",
-    "numero_departement" : "18.0",
-    "numero_etablissement" : "1802050.0",
-    "total_candidats" : "2.0",   
-    "total_reussi" : "0.0",
-    "categorie" : "",
-    
-    
-  },
-
-},
+autoecole_data = [    
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.06195009999999, 47.2255724]},
+      "properties": {
+        "title": "LAURENT FORMATION",
+        "adresse": "7 av Henri Brisson",
+        "codepostal": "18100.0",
+        "tel": "02 48 71 21 12",
+        "ville": "Vierzon",
+        "exam": "Permis B",
+        "first_pres": "0.6493",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1315.125",
+        "first_total_candidats" : "134.0",
+        "second_pres": "0.6710526315789473",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "894.736842105263",
+        "second_total_candidats" : "76.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800350.0",
+        "total_candidats" : "210.0",   
+        "total_reussi" : "138.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.392925699999978, 47.0841474]},
+      "properties": {
+        "title": "AUTO ECOLE JACQUES COEUR ",
+        "adresse": "22 rue Arènes",
+        "codepostal": "18000.0",
+        "tel": "02 48 24 43 78",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.6",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1500.0",
+        "first_total_candidats" : "40.0",
+        "second_pres": "0.6818181818181818",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "909.090909090909",
+        "second_total_candidats" : "22.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800380.0",
+        "total_candidats" : "62.0",   
+        "total_reussi" : "39.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4159855000000334, 47.215335]},
+      "properties": {
+        "title": "SAINT-MARTIN AUTO ECOLE ",
+        "adresse": "15 rue Commerce",
+        "codepostal": "18110.0",
+        "tel": "02 48 64 63 93",
+        "ville": "Saint Martin d'Auxigny",
+        "exam": "Permis B",
+        "first_pres": "0.5",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1875.0",
+        "first_total_candidats" : "2.0",
+        "second_pres": "0.0",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "0.0",
+        "second_total_candidats" : "0.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800810.0",
+        "total_candidats" : "2.0",   
+        "total_reussi" : "1.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.41309, 47.09751]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE TURLY",
+        "adresse": "8 rue Baptiste Marcet",
+        "codepostal": "18000.0",
+        "tel": "02 48 65 74 07",
+        "ville": "BOURGES",
+        "exam": "Permis B",
+        "first_pres": "0.5294",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1764.7499999999998",
+        "first_total_candidats" : "34.0",
+        "second_pres": "0.42857142857142855",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "571.4285714285714",
+        "second_total_candidats" : "35.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800860.0",
+        "total_candidats" : "69.0",   
+        "total_reussi" : "33.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.049182999999971, 47.2301063]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE DU GRELET",
+        "adresse": "3 rue Léo Mérigot",
+        "codepostal": "18100.0",
+        "tel": "02 48 71 26 17",
+        "ville": "Vierzon",
+        "exam": "Permis B",
+        "first_pres": "0.8235",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "661.875",
+        "first_total_candidats" : "17.0",
+        "second_pres": "0.6363636363636364",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "848.4848484848485",
+        "second_total_candidats" : "11.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800880.0",
+        "total_candidats" : "28.0",   
+        "total_reussi" : "21.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.062248899999986, 47.224992]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE MODERNE ",
+        "adresse": "4 place Gabriel Péri",
+        "codepostal": "18100.0",
+        "tel": "02 48 71 39 76",
+        "ville": "VIERZON",
+        "exam": "Permis B",
+        "first_pres": "0.604",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1485.0",
+        "first_total_candidats" : "101.0",
+        "second_pres": "0.5492957746478874",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "732.3943661971831",
+        "second_total_candidats" : "71.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1800920.0",
+        "total_candidats" : "172.0",   
+        "total_reussi" : "100.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.401279700000032, 47.0758794]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE SERAUCOURT ",
+        "adresse": "71 rue Séraucourt",
+        "codepostal": "18000.0",
+        "tel": "02 48 21 04 05",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.6395",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1351.8750000000002",
+        "first_total_candidats" : "172.0",
+        "second_pres": "0.5454545454545454",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "727.2727272727273",
+        "second_total_candidats" : "121.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801100.0",
+        "total_candidats" : "293.0",   
+        "total_reussi" : "176.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.249002399999995, 46.994156]},
+      "properties": {
+        "title": "AUTO-ECOLE DU TACOT ",
+        "adresse": "41 avenue Gabriel Dordain",
+        "codepostal": "18400.0",
+        "tel": "02 48 55 69 45",
+        "ville": "SAINT FLORENT SUR CHER",
+        "exam": "Permis B",
+        "first_pres": "0.4706",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1985.25",
+        "first_total_candidats" : "85.0",
+        "second_pres": "0.44329896907216493",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "591.0652920962199",
+        "second_total_candidats" : "97.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801120.0",
+        "total_candidats" : "182.0",   
+        "total_reussi" : "83.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.069759999999974, 47.2218426]},
+      "properties": {
+        "title": "STOP AUTO-ECOLE VIERZON ",
+        "adresse": "28 rue Armand Brunet",
+        "codepostal": "18100.0",
+        "tel": "02 48 75 34 06",
+        "ville": "VIERZON",
+        "exam": "Permis B",
+        "first_pres": "0.5656",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1629.0",
+        "first_total_candidats" : "244.0",
+        "second_pres": "0.46632124352331605",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "621.761658031088",
+        "second_total_candidats" : "193.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801140.0",
+        "total_candidats" : "437.0",   
+        "total_reussi" : "228.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [3.02899, 47.028961]},
+      "properties": {
+        "title": "DANGUIS AUTO-ECOLE ",
+        "adresse": "6 route Jouet",
+        "codepostal": "18320.0",
+        "tel": "02 48 76 43 65",
+        "ville": "COURS LES BARRES",
+        "exam": "Permis B",
+        "first_pres": "0.6275",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1396.8750000000002",
+        "first_total_candidats" : "51.0",
+        "second_pres": "0.6842105263157895",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "912.280701754386",
+        "second_total_candidats" : "38.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801170.0",
+        "total_candidats" : "89.0",   
+        "total_reussi" : "58.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.8736010999999735, 47.4715406]},
+      "properties": {
+        "title": "AUTO ECOLE MILLIARD ",
+        "adresse": "32 Grande Rue",
+        "codepostal": "18240.0",
+        "tel": "02 48 72 56 37",
+        "ville": "LERE",
+        "exam": "Permis B",
+        "first_pres": "0.7308",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1009.5",
+        "first_total_candidats" : "26.0",
+        "second_pres": "0.7142857142857143",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "952.3809523809523",
+        "second_total_candidats" : "14.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801210.0",
+        "total_candidats" : "40.0",   
+        "total_reussi" : "29.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4815106999999443, 47.0997932]},
+      "properties": {
+        "title": "ST-GERMAIN AUTO ECOLE",
+        "adresse": "21 route Ste Solange",
+        "codepostal": "18390.0",
+        "tel": "02 48 30 74 38",
+        "ville": "SAINT GERMAIN DU PUY",
+        "exam": "Permis B",
+        "first_pres": "0.6322",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1379.25",
+        "first_total_candidats" : "174.0",
+        "second_pres": "0.5321100917431193",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "709.480122324159",
+        "second_total_candidats" : "109.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801220.0",
+        "total_candidats" : "283.0",   
+        "total_reussi" : "168.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+ 
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.9463599000000613, 46.9504834]},
+      "properties": {
+        "title": "SIM AUTO-ECOLE ",
+        "adresse": "38 r Henri Barbusse",
+        "codepostal": "18150.0",
+        "tel": "02 48 77 00 74",
+        "ville": "LA GUERCHE SUR L'AUBOIS",
+        "exam": "Permis B",
+        "first_pres": "0.8305",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "635.6249999999999",
+        "first_total_candidats" : "59.0",
+        "second_pres": "0.7894736842105263",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "1052.6315789473683",
+        "second_total_candidats" : "19.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801410.0",
+        "total_candidats" : "78.0",   
+        "total_reussi" : "64.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4381829000000153, 47.4830577]},
+      "properties": {
+        "title": "AUTO-ECOLE PAUTRAT",
+        "adresse": "57 Ter avenue Général Leclerc",
+        "codepostal": "18700.0",
+        "tel": "02 48 58 06 21",
+        "ville": "AUBIGNY SUR NERE",
+        "exam": "Permis B",
+        "first_pres": "0.7255",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1029.3749999999998",
+        "first_total_candidats" : "102.0",
+        "second_pres": "0.5384615384615384",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "717.9487179487179",
+        "second_total_candidats" : "52.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801420.0",
+        "total_candidats" : "154.0",   
+        "total_reussi" : "102.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.376688100000024, 47.0703196]},
+      "properties": {
+        "title": "ROYAL AUTO-ECOLE ",
+        "adresse": "120 avenue Marcel Haegelen",
+        "codepostal": "18000.0",
+        "tel": "02 48 50 07 58",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.7037",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1111.125",
+        "first_total_candidats" : "108.0",
+        "second_pres": "0.6417910447761194",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "855.7213930348258",
+        "second_total_candidats" : "67.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801450.0",
+        "total_candidats" : "175.0",   
+        "total_reussi" : "119.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.9882350000000315, 47.045338]},
+      "properties": {
+        "title": "SAEVA EURL LA JOUETTOISE ",
+        "adresse": "7 place Daumy",
+        "codepostal": "18320.0",
+        "tel": "02 48 76 49 61",
+        "ville": "JOUET SUR L'AUBOIS",
+        "exam": "Permis B",
+        "first_pres": "0.6486",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1317.75",
+        "first_total_candidats" : "37.0",
+        "second_pres": "0.5",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "666.6666666666666",
+        "second_total_candidats" : "32.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801510.0",
+        "total_candidats" : "69.0",   
+        "total_reussi" : "40.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.415718, 47.099991]},
+      "properties": {
+        "title": "STOP AUTO ECOLE BLASQUEZ",
+        "adresse": "avenue Mar de Lattre de Tassigny",
+        "codepostal": "18000.0",
+        "tel": "02 48 24 61 97",
+        "ville": "BOURGES",
+        "exam": "Permis B",
+        "first_pres": "0.6348",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1369.4999999999998",
+        "first_total_candidats" : "397.0",
+        "second_pres": "0.5756302521008403",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "767.5070028011204",
+        "second_total_candidats" : "238.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801530.0",
+        "total_candidats" : "635.0",   
+        "total_reussi" : "389.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.081747500000006, 47.2019319]},
+      "properties": {
+        "title": "CHAILLOT AUTO-ECOLE",
+        "adresse": "118 route Bellon",
+        "codepostal": "18100.0",
+        "tel": "02 48 71 18 37",
+        "ville": "Vierzon",
+        "exam": "Permis B",
+        "first_pres": "0.5349",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1744.1249999999998",
+        "first_total_candidats" : "43.0",
+        "second_pres": "0.8695652173913043",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "1159.4202898550725",
+        "second_total_candidats" : "23.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801620.0",
+        "total_candidats" : "66.0",   
+        "total_reussi" : "43.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.0996035000000575, 47.2175765]},
+      "properties": {
+        "title": "NG CONDUITE ",
+        "adresse": "49 r Etienne Marcel",
+        "codepostal": "18100.0",
+        "tel": "02 48 51 71 18",
+        "ville": "Vierzon",
+        "exam": "Permis B",
+        "first_pres": "0.6154",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1442.2500000000002",
+        "first_total_candidats" : "26.0",
+        "second_pres": "0.52",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "693.3333333333334",
+        "second_total_candidats" : "25.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801630.0",
+        "total_candidats" : "51.0",   
+        "total_reussi" : "29.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.38886, 47.083889]},
+      "properties": {
+        "title": "AUTO-ECOLE CER JURANVILLE",
+        "adresse": "1 bis bd Juranville",
+        "codepostal": "18000.0",
+        "tel": "02 48 24 97 27",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.6017",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1493.6249999999998",
+        "first_total_candidats" : "354.0",
+        "second_pres": "0.49603174603174605",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "661.3756613756615",
+        "second_total_candidats" : "252.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801690.0",
+        "total_candidats" : "606.0",   
+        "total_reussi" : "338.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.839215999999965, 47.3297573]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE THERET",
+        "adresse": "3 place Panneterie",
+        "codepostal": "18300.0",
+        "tel": "02 48 78 00 75",
+        "ville": "Sancerre",
+        "exam": "Permis B",
+        "first_pres": "0.7667",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "874.8749999999998",
+        "first_total_candidats" : "30.0",
+        "second_pres": "0.6666666666666666",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "888.8888888888889",
+        "second_total_candidats" : "15.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801720.0",
+        "total_candidats" : "45.0",   
+        "total_reussi" : "33.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.5740696999999955, 46.8847588]},
+      "properties": {
+        "title": "STOP AUTO-ECOLE BLASQUEZ DUN",
+        "adresse": "10 rue Michelet",
+        "codepostal": "18130.0",
+        "tel": "02 48 59 51 72",
+        "ville": "Dun",
+        "exam": "Permis B",
+        "first_pres": "0.0",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "3750.0",
+        "first_total_candidats" : "1.0",
+        "second_pres": "0.0",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "0.0",
+        "second_total_candidats" : "2.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801770.0",
+        "total_candidats" : "3.0",   
+        "total_reussi" : "0.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.3987597999999934, 47.0862904]},
+      "properties": {
+        "title": "ECF-CENTRE ATLANTIQUE BOURGES",
+        "adresse": "18 rue Jean Girard",
+        "codepostal": "18000.0",
+        "tel": "02 43 21 41 46",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.5676",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1621.5",
+        "first_total_candidats" : "74.0",
+        "second_pres": "0.5",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "666.6666666666666",
+        "second_total_candidats" : "66.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801790.0",
+        "total_candidats" : "140.0",   
+        "total_reussi" : "75.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4377684999999474, 47.4869667]},
+      "properties": {
+        "title": "AUTO-ECOLE MOLENAT",
+        "adresse": "6 rue Etienne Soyer",
+        "codepostal": "18700.0",
+        "tel": "02 48 58 96 15",
+        "ville": "Aubigny sur Nère",
+        "exam": "Permis B",
+        "first_pres": "0.6071",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1473.375",
+        "first_total_candidats" : "56.0",
+        "second_pres": "0.47619047619047616",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "634.9206349206349",
+        "second_total_candidats" : "42.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801830.0",
+        "total_candidats" : "98.0",   
+        "total_reussi" : "54.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.250174099999981, 46.9947344]},
+      "properties": {
+        "title": "PRESTIGE FORMATION AUTO-ECOLE",
+        "adresse": "67 av Gabriel Dordain",
+        "codepostal": "18400.0",
+        "tel": "02 48 55 64 95",
+        "ville": "SAINT FLORENT SUR CHER",
+        "exam": "Permis B",
+        "first_pres": "0.5641",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1634.6249999999998",
+        "first_total_candidats" : "78.0",
+        "second_pres": "0.5789473684210527",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "771.9298245614036",
+        "second_total_candidats" : "57.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801850.0",
+        "total_candidats" : "135.0",   
+        "total_reussi" : "77.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.390385, 47.08538]},
+      "properties": {
+        "title": "CENTRE DE FORMATION PROF. MALUS",
+        "adresse": "ZAC Echangeur",
+        "codepostal": "18000.0",
+        "tel": "02 48 21 12 93",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.6471",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1323.375",
+        "first_total_candidats" : "34.0",
+        "second_pres": "0.8",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "1066.6666666666667",
+        "second_total_candidats" : "20.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801860.0",
+        "total_candidats" : "54.0",   
+        "total_reussi" : "38.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.856184100000064, 47.3394288]},
+      "properties": {
+        "title": "AUTO MOTO-SECURITE - AMS 18",
+        "adresse": "19 rue Commerce",
+        "codepostal": "18300.0",
+        "tel": "02 48 54 01 51",
+        "ville": "Saint Satur ",
+        "exam": "Permis B",
+        "first_pres": "0.6176",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1433.9999999999998",
+        "first_total_candidats" : "34.0",
+        "second_pres": "0.5161290322580645",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "688.1720430107526",
+        "second_total_candidats" : "31.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801870.0",
+        "total_candidats" : "65.0",   
+        "total_reussi" : "37.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4002089000000524, 47.0790891]},
+      "properties": {
+        "title": "STOP AUTO ECOLE BLASQUEZ BOURGES",
+        "adresse": "6 rue Jean Baffier",
+        "codepostal": "18000.0",
+        "tel": "02 48 20 15 66",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.63",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1387.5",
+        "first_total_candidats" : "100.0",
+        "second_pres": "0.5081967213114754",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "677.5956284153006",
+        "second_total_candidats" : "61.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801880.0",
+        "total_candidats" : "161.0",   
+        "total_reussi" : "94.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.408466800000042, 47.0745543]},
+      "properties": {
+        "title": "AMG AUTO ECOLE",
+        "adresse": "113 r Jean Baffier",
+        "codepostal": "18000.0",
+        "tel": "02 48 50 12 33",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.5918",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1530.7499999999998",
+        "first_total_candidats" : "98.0",
+        "second_pres": "0.49230769230769234",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "656.4102564102565",
+        "second_total_candidats" : "65.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801900.0",
+        "total_candidats" : "163.0",   
+        "total_reussi" : "90.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.2210878999999295, 47.1447967]},
+      "properties": {
+        "title": "AE CER JURANVILLE CER MEHUN",
+        "adresse": "190 r Jeanne d'Arc",
+        "codepostal": "18500.0",
+        "tel": "02 48 57 12 12",
+        "ville": "Mehun sur Yèvre",
+        "exam": "Permis B",
+        "first_pres": "0.5222",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1791.75",
+        "first_total_candidats" : "90.0",
+        "second_pres": "0.5316455696202531",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "708.8607594936708",
+        "second_total_candidats" : "79.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801910.0",
+        "total_candidats" : "169.0",   
+        "total_reussi" : "89.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.9199214999999867, 46.8312945]},
+      "properties": {
+        "title": "STOP AUTO ECOLE BLASQUEZ SANCOIN",
+        "adresse": "5 rue Fernand Duruisseau",
+        "codepostal": "18600.0",
+        "tel": "02 48 74 59 85",
+        "ville": "Sancoins",
+        "exam": "Permis B",
+        "first_pres": "0.5571",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1660.8749999999998",
+        "first_total_candidats" : "70.0",
+        "second_pres": "0.46938775510204084",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "625.8503401360545",
+        "second_total_candidats" : "49.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801920.0",
+        "total_candidats" : "119.0",   
+        "total_reussi" : "62.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.377144199999975, 47.1035002]},
+      "properties": {
+        "title": "TIB AND CO",
+        "adresse": "17 Bis avenue Pasteur",
+        "codepostal": "18230.0",
+        "tel": "02 48 65 66 34",
+        "ville": "SAINT DOULCHARD",
+        "exam": "Permis B",
+        "first_pres": "0.537",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1736.25",
+        "first_total_candidats" : "54.0",
+        "second_pres": "0.4489795918367347",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "598.639455782313",
+        "second_total_candidats" : "49.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801940.0",
+        "total_candidats" : "103.0",   
+        "total_reussi" : "51.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.390385, 47.08538]},
+      "properties": {
+        "title": "STOP AUTOECOLE BLASQUEZ GIBJONCS",
+        "adresse": "Centre commercial Gibjoncs",
+        "codepostal": "18000.0",
+        "tel": "02 48 24 61 97",
+        "ville": "Bourges",
+        "exam": "Permis B",
+        "first_pres": "0.6721",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1229.6249999999998",
+        "first_total_candidats" : "122.0",
+        "second_pres": "0.5510204081632653",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "734.6938775510204",
+        "second_total_candidats" : "98.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801950.0",
+        "total_candidats" : "220.0",   
+        "total_reussi" : "136.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.8205758999999944, 46.9973923]},
+      "properties": {
+        "title": "ECOLE DE CONDUITE NERONDAISE",
+        "adresse": "29 Grande Rue",
+        "codepostal": "18350.0",
+        "tel": "02 48 74 94 77",
+        "ville": "NERONDES",
+        "exam": "Permis B",
+        "first_pres": "0.5769",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1586.6250000000002",
+        "first_total_candidats" : "26.0",
+        "second_pres": "0.4523809523809524",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "603.174603174603",
+        "second_total_candidats" : "42.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1801970.0",
+        "total_candidats" : "68.0",   
+        "total_reussi" : "34.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+ 
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4470876000000317, 47.5610553]},
+      "properties": {
+        "title": "AUTO ECOLE CHALLENGER",
+        "adresse": "23 rue Nationale",
+        "codepostal": "18410.0",
+        "tel": "02 48 81 13 30",
+        "ville": " ARGENT SUR SAULDRE",
+        "exam": "Permis B",
+        "first_pres": "0.459",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "2028.7499999999995",
+        "first_total_candidats" : "61.0",
+        "second_pres": "0.3548387096774194",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "473.1182795698925",
+        "second_total_candidats" : "62.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1802000.0",
+        "total_candidats" : "123.0",   
+        "total_reussi" : "50.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.5724622999999838, 47.2000169]},
+      "properties": {
+        "title": "AUTO ECOLE LES AIX D'ANGILLON",
+        "adresse": "4 place Général de Gaulle",
+        "codepostal": "18220.0",
+        "tel": "02 48 20 48 60",
+        "ville": "Les  Aix d'Angillon",
+        "exam": "Permis B",
+        "first_pres": "0.5161",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1814.625",
+        "first_total_candidats" : "31.0",
+        "second_pres": "0.6774193548387096",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "903.2258064516128",
+        "second_total_candidats" : "31.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1802010.0",
+        "total_candidats" : "62.0",   
+        "total_reussi" : "37.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.4377684999999474, 47.4869667]},
+      "properties": {
+        "title": "AUTO ECOLE MOLENAT AUBIGNY",
+        "adresse": "6 r Etienne Soyer",
+        "codepostal": "18700.0",
+        "tel": "02 48 58 96 15",
+        "ville": "Aubigny sur Nère",
+        "exam": "Permis B",
+        "first_pres": "0.6316",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "1381.4999999999998",
+        "first_total_candidats" : "19.0",
+        "second_pres": "0.7272727272727273",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "969.6969696969697",
+        "second_total_candidats" : "11.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1802020.0",
+        "total_candidats" : "30.0",   
+        "total_reussi" : "20.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [2.250174099999981, 46.9947344]},
+      "properties": {
+        "title": "PRESTIGE FORMATION AUTO ECOLE",
+        "adresse": "67 av Gabriel Dordain",
+        "codepostal": "18400.0",
+        "tel": "02 48 55 64 95",
+        "ville": "SAINT FLORENT SUR CHER",
+        "exam": "Permis B",
+        "first_pres": "",
+        "first_pres_text":"1ere presentation",
+        "first_cost": "3750.0",
+        "first_total_candidats" : "0.0",
+        "second_pres": "0.0",
+        "second_pres_text":"2eme presentation ou plus",
+        "second_cost": "0.0",
+        "second_total_candidats" : "2.0",
+        "numero_departement" : "18.0",
+        "numero_etablissement" : "1802050.0",
+        "total_candidats" : "2.0",   
+        "total_reussi" : "0.0",
+        "categorie" : "",
+        
+        
+      },
+
+    },
 
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.46769, -0.55074]},
+      "geometry": {"type": "Point", "coordinates": [-0.55074, 47.46769]},
       "properties": {
         "title": "AFODIL ",
         "adresse": "7 rue Bressigny ",
@@ -1132,10 +1132,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.05035, -0.90048]},
+      "geometry": {"type": "Point", "coordinates": [-0.90048, 47.05035]},
       "properties": {
         "title": "Auto Ecole des CERAMISTES ",
-        "adresse": "2 rue des Céramistes ",
+        "adresse": "2 rue des Céramistes ",
         "codepostal": "49400.0",
         "tel": "",
         "ville": "CHOLET ",
@@ -1161,10 +1161,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.672475, -0.2387]},
+      "geometry": {"type": "Point", "coordinates": [-0.2387, 47.672475]},
       "properties": {
         "title": "ECOLE DE CONDUITE BLANCHET DANIEL ",
-        "adresse": "4 bis, rue des déportés ",
+        "adresse": "4 bis, rue des déportés ",
         "codepostal": "49430.0",
         "tel": "02 41 76 30 52",
         "ville": "DURTAL ",
@@ -1190,7 +1190,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.234195, -0.429225]},
+      "geometry": {"type": "Point", "coordinates": [-0.429225, 47.234195]},
       "properties": {
         "title": "AUTO-ECOLE MICHEL SAMSON ",
         "adresse": "64, rue d'Anjou ",
@@ -1219,10 +1219,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.19631, -0.278135]},
+      "geometry": {"type": "Point", "coordinates": [-0.278135, 47.19631]},
       "properties": {
         "title": "AUTO-ECOLE J. MARTIN ",
-        "adresse": "16 bis, avenue du Général Leclerc ",
+        "adresse": "16 bis, avenue du Général Leclerc ",
         "codepostal": "49700.0",
         "tel": "02 41 59 22 38",
         "ville": "DOUE LA FONTAINE ",
@@ -1248,7 +1248,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.24978, -0.066052]},
+      "geometry": {"type": "Point", "coordinates": [-0.066052, 47.24978]},
       "properties": {
         "title": "AUTO-ECOLE BLOT ",
         "adresse": "2, rue Marceau ",
@@ -1277,10 +1277,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.542381, -0.10572]},
+      "geometry": {"type": "Point", "coordinates": [-0.10572, 47.542381]},
       "properties": {
         "title": "AUTO MOTO ECOLE MICHEL NEUVILLE ",
-        "adresse": "55, place du marché ",
+        "adresse": "55, place du marché ",
         "codepostal": "49150.0",
         "tel": "02 41 89 10 05",
         "ville": "BAUGE ",
@@ -1306,7 +1306,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.503047, -0.796432]},
+      "geometry": {"type": "Point", "coordinates": [-0.796432, 47.503047]},
       "properties": {
         "title": "ECOLE DE CONDUITE JL 49 ",
         "adresse": "47, rue d'Angers ",
@@ -1335,7 +1335,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.25872, -0.07519]},
+      "geometry": {"type": "Point", "coordinates": [-0.07519, 47.25872]},
       "properties": {
         "title": "AUTO-ECOLE LEGER HUPONT ",
         "adresse": "4, place Saint Pierre ",
@@ -1364,7 +1364,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.466808, -0.4921]},
+      "geometry": {"type": "Point", "coordinates": [-0.4921, 47.466808]},
       "properties": {
         "title": "SAINT BARTHELEMY AUTO-ECOLE ",
         "adresse": "28, route de Beaufort ",
@@ -1393,10 +1393,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.4716, -0.55495]},
+      "geometry": {"type": "Point", "coordinates": [-0.55495, 47.4716]},
       "properties": {
         "title": "AUTO-ECOLE ESNAULT ",
-        "adresse": "72, rue Baudrière ",
+        "adresse": "72, rue Baudrière ",
         "codepostal": "49100.0",
         "tel": "02 41 88 35 32",
         "ville": "ANGERS ",
@@ -1422,7 +1422,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.465437, -0.545661]},
+      "geometry": {"type": "Point", "coordinates": [-0.545661, 47.465437]},
       "properties": {
         "title": "AUTO-ECOLE DAVID D'ANGERS ",
         "adresse": "146, rue Bressigny ",
@@ -1451,10 +1451,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.472061, -0.55257]},
+      "geometry": {"type": "Point", "coordinates": [-0.55257, 47.472061]},
       "properties": {
         "title": "AUTO-ECOLE CHADAL ",
-        "adresse": "34, rue de la roë ",
+        "adresse": "34, rue de la roë ",
         "codepostal": "49100.0",
         "tel": "02 41 87 52 07",
         "ville": "ANGERS ",
@@ -1480,7 +1480,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.13258, -0.15215]},
+      "geometry": {"type": "Point", "coordinates": [-0.15215, 47.13258]},
       "properties": {
         "title": "AUTO-ECOLE WEISS ",
         "adresse": "9, rue Nationale ",
@@ -1509,7 +1509,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.43237, -0.518875]},
+      "geometry": {"type": "Point", "coordinates": [-0.518875, 47.43237]},
       "properties": {
         "title": "ECOLE DE CONDUITE BONNAUD JEAN- PIERRE ",
         "adresse": "Centre Commercial la Chesnaie ",
@@ -1538,10 +1538,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.255419, -0.073565]},
+      "geometry": {"type": "Point", "coordinates": [-0.073565, 47.255419]},
       "properties": {
         "title": "S.A.R.L. ECOLE DE CONDUITE BEUGNON ",
-        "adresse": "79, rue d'Orléans ",
+        "adresse": "79, rue d'Orléans ",
         "codepostal": "49400.0",
         "tel": "02 41 51 08 71",
         "ville": "SAUMUR ",
@@ -1567,9 +1567,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.351238, -0.75919]},
+      "geometry": {"type": "Point", "coordinates": [-0.75919, 47.351238]},
       "properties": {
-        "title": "Auto-école Jean-Luc HERVOUET ",
+        "title": "Auto-école Jean-Luc HERVOUET ",
         "adresse": "28, rue du vieux pont ",
         "codepostal": "49290.0",
         "tel": "02 41 78 12 14",
@@ -1596,7 +1596,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.68507, -0.87145]},
+      "geometry": {"type": "Point", "coordinates": [-0.87145, 47.68507]},
       "properties": {
         "title": "SARL AUTO MOTO ECOLE TERRIER ",
         "adresse": "6, ruePasteur ",
@@ -1625,7 +1625,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.466309, -0.55009]},
+      "geometry": {"type": "Point", "coordinates": [-0.55009, 47.466309]},
       "properties": {
         "title": "ECOLE DE CONDUITE ALEX ",
         "adresse": "22, rue Chateaugontier ",
@@ -1654,10 +1654,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.47718, -0.54679]},
+      "geometry": {"type": "Point", "coordinates": [-0.54679, 47.47718]},
       "properties": {
         "title": "AUTO-ECOLE GASTE ",
-        "adresse": "55, avenue Besnardière ",
+        "adresse": "55, avenue Besnardière ",
         "codepostal": "49100.0",
         "tel": "",
         "ville": "ANGERS ",
@@ -1683,7 +1683,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.462372, -0.54511]},
+      "geometry": {"type": "Point", "coordinates": [-0.54511, 47.462372]},
       "properties": {
         "title": "AUTO-ECOLE PRIOU MICHELET ",
         "adresse": "63, rue Michelet ",
@@ -1712,7 +1712,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.070197, -0.885432]},
+      "geometry": {"type": "Point", "coordinates": [-0.885432, 47.070197]},
       "properties": {
         "title": "AUTO ECOLE DES PEUPLIERS - SARL DOUET JAUNATRE ",
         "adresse": "26, rue de la Croix Blanche ",
@@ -1741,7 +1741,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.209187, -0.727502]},
+      "geometry": {"type": "Point", "coordinates": [-0.727502, 47.209187]},
       "properties": {
         "title": "ECM ",
         "adresse": "7, rue du commerce ",
@@ -1770,7 +1770,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.12146, -0.78715]},
+      "geometry": {"type": "Point", "coordinates": [-0.78715, 47.12146]},
       "properties": {
         "title": "AUTO-ECOLE DURBECE J.Y. ",
         "adresse": "7, place Hubert Cassin ",
@@ -1799,7 +1799,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.47979, -0.5658]},
+      "geometry": {"type": "Point", "coordinates": [-0.5658, 47.47979]},
       "properties": {
         "title": "AUTO-ECOLE CONTACT ",
         "adresse": "28, rue St Lazare ",
@@ -1828,7 +1828,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.473929, -0.568677]},
+      "geometry": {"type": "Point", "coordinates": [-0.568677, 47.473929]},
       "properties": {
         "title": "AUTO-ECOLE SAINT JACQUES ",
         "adresse": "14, rue Saint Jacques ",
@@ -1857,7 +1857,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.195408, -0.278661]},
+      "geometry": {"type": "Point", "coordinates": [-0.278661, 47.195408]},
       "properties": {
         "title": "AUTO-ECOLE SYLVIE ROBERT ",
         "adresse": "11, rue Haute Saint Denis ",
@@ -1886,10 +1886,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.215466, -0.73082]},
+      "geometry": {"type": "Point", "coordinates": [-0.73082, 47.215466]},
       "properties": {
         "title": "ECOLE DE CONDUITE STEPHANE RIGAUDEAU ",
-        "adresse": "Centre Commercial de l'Astrée ",
+        "adresse": "Centre Commercial de l'Astrée ",
         "codepostal": "49120.0",
         "tel": "02 41 30 69 50",
         "ville": "CHEMILLE ",
@@ -1915,10 +1915,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.39702, -0.53889]},
+      "geometry": {"type": "Point", "coordinates": [-0.53889, 47.39702]},
       "properties": {
         "title": "ECOLE DE CONDUITE MURS ERIGNE ",
-        "adresse": "3, rampe d'Erigné ",
+        "adresse": "3, rampe d'Erigné ",
         "codepostal": "49610.0",
         "tel": "02 41 57 78 06",
         "ville": "MURS ERIGNE ",
@@ -1944,7 +1944,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.455002, -0.52889]},
+      "geometry": {"type": "Point", "coordinates": [-0.52889, 47.455002]},
       "properties": {
         "title": "AUTO-ECOLE SAUMUROISE ",
         "adresse": "213, rue Saumuroise ",
@@ -1973,7 +1973,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.55978, -0.423125]},
+      "geometry": {"type": "Point", "coordinates": [-0.423125, 47.55978]},
       "properties": {
         "title": "AUTO ECOLE SAINT PIERRE ",
         "adresse": "8, place Hamard ",
@@ -2002,7 +2002,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.614529, -0.46617]},
+      "geometry": {"type": "Point", "coordinates": [-0.46617, 47.614529]},
       "properties": {
         "title": "DAVY CONDUITE ",
         "adresse": "6 ter, rue du Bourg Joly ",
@@ -2031,7 +2031,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.15087, -0.528665]},
+      "geometry": {"type": "Point", "coordinates": [-0.528665, 47.15087]},
       "properties": {
         "title": "DEROUET FORMATION ",
         "adresse": "ZA Le Moulin St Martin ",
@@ -2060,10 +2060,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.353062, -0.76434]},
+      "geometry": {"type": "Point", "coordinates": [-0.76434, 47.353062]},
       "properties": {
         "title": "AUTO- ECOLE NOYER ",
-        "adresse": "19, rue Félix Faure ",
+        "adresse": "19, rue Félix Faure ",
         "codepostal": "49290.0",
         "tel": "02 41 74 91 44",
         "ville": "CHALONNES SUR LOIRE ",
@@ -2089,10 +2089,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.215466, -0.73082]},
+      "geometry": {"type": "Point", "coordinates": [-0.73082, 47.215466]},
       "properties": {
         "title": "SARL AUTO-ECOLE JEAN MARIE GATINEAU ",
-        "adresse": "80, avenue du Général de Gaulle ",
+        "adresse": "80, avenue du Général de Gaulle ",
         "codepostal": "49120.0",
         "tel": "02 41 30 39 52",
         "ville": "CHEMILLE ",
@@ -2118,10 +2118,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.255419, -0.073565]},
+      "geometry": {"type": "Point", "coordinates": [-0.073565, 47.255419]},
       "properties": {
         "title": "ALAIN AUTO-ECOLE ",
-        "adresse": "38, avenue du Général de Gaulle ",
+        "adresse": "38, avenue du Général de Gaulle ",
         "codepostal": "49400.0",
         "tel": "02 41 51 37 93",
         "ville": "SAUMUR ",
@@ -2147,7 +2147,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.038102, -1.117326]},
+      "geometry": {"type": "Point", "coordinates": [-1.117326, 47.038102]},
       "properties": {
         "title": "AUTO-ECOLE GUILLOU CLAUDY ",
         "adresse": "33, rue nationale ",
@@ -2176,7 +2176,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.680752, -0.48964]},
+      "geometry": {"type": "Point", "coordinates": [-0.48964, 47.680752]},
       "properties": {
         "title": "KRISS CONDUITE ",
         "adresse": "35, rue Nationale ",
@@ -2205,7 +2205,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.137335, -0.894685]},
+      "geometry": {"type": "Point", "coordinates": [-0.894685, 47.137335]},
       "properties": {
         "title": "AUTO ET MOTO ECOLE PHILIPPE BAUDET ",
         "adresse": "5, rue des sports ",
@@ -2234,7 +2234,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.520913, -0.8814]},
+      "geometry": {"type": "Point", "coordinates": [-0.8814, 47.520913]},
       "properties": {
         "title": "ECOLE DE CONDUITE OUEST 49 ",
         "adresse": "2, rue de l'Hermitage ",
@@ -2263,7 +2263,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.475594, -0.534582]},
+      "geometry": {"type": "Point", "coordinates": [-0.534582, 47.475594]},
       "properties": {
         "title": "PASTEUR CONDUITE ",
         "adresse": "161, avenue Pasteur ",
@@ -2292,7 +2292,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.52884, -0.61157]},
+      "geometry": {"type": "Point", "coordinates": [-0.61157, 47.52884]},
       "properties": {
         "title": "AUTO-ECOLE SYLVIE JULLIARD ",
         "adresse": "1 bis, rue Emile Zola ",
@@ -2321,24 +2321,24 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.379822, -0.11227]},
+      "geometry": {"type": "Point", "coordinates": [-0.11227, 47.379822]},
       "properties": {
         "title": "ESPACE CONDUITE FABRINA ",
         "adresse": "29, rue de l'Aumonerie ",
         "codepostal": "49160.0",
         "tel": "06 08 27 00 31",
         "ville": "LONGUE JUMELLES ",
-        "exam": "Permis B",
+        "exam": "87.0",
         "first_pres": "0.5121951219512195",
         "first_pres_text":"1ere presentation",
         "first_cost": "1829.2682926829268",
         "first_total_candidats" : "41.0",
-        "second_pres": "0.7407407407407407",
+        "second_pres": "",
         "second_pres_text":"2eme presentation ou plus",
-        "second_cost": "987.6543209876542",
+        "second_cost": "",
         "second_total_candidats" : "27.0",
-        "numero_departement" : "49.0",
-        "numero_etablissement" : "4907230.0",
+        "numero_departement" : "47.614529",
+        "numero_etablissement" : "-0.46617",
         "total_candidats" : "68.0",   
         "total_reussi" : "41.0",
         "categorie" : "B AAC B1 ",
@@ -2350,7 +2350,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.448639, -0.56104]},
+      "geometry": {"type": "Point", "coordinates": [-0.56104, 47.448639]},
       "properties": {
         "title": "ECOLE DE CONDUITE AZUR ",
         "adresse": "19, square Winston Churchill ",
@@ -2379,10 +2379,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.444618, -0.50093]},
+      "geometry": {"type": "Point", "coordinates": [-0.50093, 47.444618]},
       "properties": {
         "title": "AUTO-ECOLE LES TELLIERES ",
-        "adresse": "219, rue Jean Jaurès ",
+        "adresse": "219, rue Jean Jaurès ",
         "codepostal": "49800.0",
         "tel": "02 41 69 18 07",
         "ville": "TRELAZE ",
@@ -2408,7 +2408,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.616542, -0.46814]},
+      "geometry": {"type": "Point", "coordinates": [-0.46814, 47.616542]},
       "properties": {
         "title": "AUTO-ECOLE DES 3 RIVIERES ",
         "adresse": "31, rue d'Anjou ",
@@ -2437,7 +2437,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.146244, -0.523023]},
+      "geometry": {"type": "Point", "coordinates": [-0.523023, 47.146244]},
       "properties": {
         "title": "ECOLE DE CONDUITE DIDIER MARTIN ",
         "adresse": "Avenue de l'Europe ",
@@ -2466,10 +2466,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.465221, -0.55911]},
+      "geometry": {"type": "Point", "coordinates": [-0.55911, 47.465221]},
       "properties": {
         "title": "AUTO-ECOLE PARILLAUD ",
-        "adresse": "9, place Pierre Sémard ",
+        "adresse": "9, place Pierre Sémard ",
         "codepostal": "49100.0",
         "tel": "02 41 88 11 72",
         "ville": "ANGERS ",
@@ -2495,7 +2495,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.45878, -0.598525]},
+      "geometry": {"type": "Point", "coordinates": [-0.598525, 47.45878]},
       "properties": {
         "title": "ECOLE DE CONDUITE VAL DE MAINE ",
         "adresse": "Centre Commercial Pruniers ",
@@ -2524,7 +2524,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.464691, -0.53427]},
+      "geometry": {"type": "Point", "coordinates": [-0.53427, 47.464691]},
       "properties": {
         "title": "ECOLE DE CONDUITE PATTON ",
         "adresse": "87, avenue Patton ",
@@ -2553,7 +2553,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.682152, -0.4915]},
+      "geometry": {"type": "Point", "coordinates": [-0.4915, 47.682152]},
       "properties": {
         "title": "CHATEAUNEUF CONDUITE ",
         "adresse": "50 bis, rue Nationale ",
@@ -2582,7 +2582,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.46682, -0.54874]},
+      "geometry": {"type": "Point", "coordinates": [-0.54874, 47.46682]},
       "properties": {
         "title": "S.A.R.L. CONDUITE ENERGY ",
         "adresse": "61 - 63, rue Bressigny ",
@@ -2611,10 +2611,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.14814, -1.06688]},
+      "geometry": {"type": "Point", "coordinates": [-1.06688, 47.14814]},
       "properties": {
-        "title": "Auto-école Pyramide ",
-        "adresse": "59, rue de la Vendée ",
+        "title": "Auto-école Pyramide ",
+        "adresse": "59, rue de la Vendée ",
         "codepostal": "49450.0",
         "tel": "",
         "ville": "VILLEDIEU LA BLOUERE ",
@@ -2640,7 +2640,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.408939, -0.76067]},
+      "geometry": {"type": "Point", "coordinates": [-0.76067, 47.408939]},
       "properties": {
         "title": "AUTO-ECOLE BERTHELOT ",
         "adresse": "2, rue Saint Augustin ",
@@ -2669,7 +2669,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.257977, -0.078898]},
+      "geometry": {"type": "Point", "coordinates": [-0.078898, 47.257977]},
       "properties": {
         "title": "AUTO-ECOLE BERNARD ",
         "adresse": "54, rue du Portail Louis ",
@@ -2698,7 +2698,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.511399, 0.115471]},
+      "geometry": {"type": "Point", "coordinates": [0.115471, 47.511399]},
       "properties": {
         "title": "THIERRY AUTO-ECOLE ",
         "adresse": "28, grande rue ",
@@ -2727,7 +2727,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.200844, -0.994913]},
+      "geometry": {"type": "Point", "coordinates": [-0.994913, 47.200844]},
       "properties": {
         "title": "AUTO-ECOLE PASCAL BOSSEAU ",
         "adresse": "bis, place du 11 novembre ",
@@ -2756,10 +2756,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.455742, -0.553773]},
+      "geometry": {"type": "Point", "coordinates": [-0.553773, 47.455742]},
       "properties": {
         "title": "MERIDIANE AUTO- ECOLE LETANDUERE ",
-        "adresse": "83, rue Létanduère ",
+        "adresse": "83, rue Létanduère ",
         "codepostal": "49000.0",
         "tel": "02 41 44 42 22",
         "ville": "ANGERS ",
@@ -2785,7 +2785,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.05735, -0.87856]},
+      "geometry": {"type": "Point", "coordinates": [-0.87856, 47.05735]},
       "properties": {
         "title": "E.C.C.A. ",
         "adresse": "19, boulevard Delhumeau Plessis ",
@@ -2814,10 +2814,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.00462, -0.85088]},
+      "geometry": {"type": "Point", "coordinates": [-0.85088, 47.00462]},
       "properties": {
         "title": "E.C.C.A. ",
-        "adresse": "21, rue Georges Clémenceau ",
+        "adresse": "21, rue Georges Clémenceau ",
         "codepostal": "49280.0",
         "tel": "",
         "ville": "LA TESSOUALLE ",
@@ -2843,9 +2843,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.359595, -0.860195]},
+      "geometry": {"type": "Point", "coordinates": [-0.860195, 47.359595]},
       "properties": {
-        "title": "Auto-école BOUVET ",
+        "title": "Auto-école BOUVET ",
         "adresse": "43, rue de la Loire ",
         "codepostal": "49620.0",
         "tel": "06 86 57 61 20",
@@ -2872,9 +2872,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.349941, -0.44385]},
+      "geometry": {"type": "Point", "coordinates": [-0.44385, 47.349941]},
       "properties": {
-        "title": "Auto-école de l'Aubance ",
+        "title": "Auto-école de l'Aubance ",
         "adresse": "44, rue Louis Moron ",
         "codepostal": "49320.0",
         "tel": "02 41 91 23 55",
@@ -2901,10 +2901,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.26971, -0.50388]},
+      "geometry": {"type": "Point", "coordinates": [-0.50388, 47.26971]},
       "properties": {
         "title": "DEROUET FORMATION ",
-        "adresse": "1 ter, bd de la République ",
+        "adresse": "1 ter, bd de la République ",
         "codepostal": "49380.0",
         "tel": "02 41 45 49 12",
         "ville": "THOUARCE ",
@@ -2930,10 +2930,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.379379, -0.107216]},
+      "geometry": {"type": "Point", "coordinates": [-0.107216, 47.379379]},
       "properties": {
         "title": "DEROUET FORMATION ",
-        "adresse": "10, avenue du Maréchal Foch ",
+        "adresse": "10, avenue du Maréchal Foch ",
         "codepostal": "49160.0",
         "tel": "02 41 52 13 81",
         "ville": "LONGUE JUMELLES ",
@@ -2959,7 +2959,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.440142, -0.215049]},
+      "geometry": {"type": "Point", "coordinates": [-0.215049, 47.440142]},
       "properties": {
         "title": "ECOLE DE CONDUITE COTEAUX ET VALLEE - EC2V ",
         "adresse": "19, rue de l'hotel de ville ",
@@ -2988,7 +2988,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.47485, -0.53599]},
+      "geometry": {"type": "Point", "coordinates": [-0.53599, 47.47485]},
       "properties": {
         "title": "ECOLES DE CONDUITE COTEAUX ET VALLEE ",
         "adresse": "94, avenue Pasteur ",
@@ -3017,7 +3017,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.26016, -0.080898]},
+      "geometry": {"type": "Point", "coordinates": [-0.080898, 47.26016]},
       "properties": {
         "title": "SAUMUR AUTO-ECOLE - ORILLARD VIRGINIE ",
         "adresse": "36, rue Beaurepaire ",
@@ -3046,7 +3046,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.26474, -0.09839]},
+      "geometry": {"type": "Point", "coordinates": [-0.09839, 47.26474]},
       "properties": {
         "title": "SUN ROUTE ",
         "adresse": "24, avenue Georges Pompidou ",
@@ -3075,7 +3075,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.4594, -0.536]},
+      "geometry": {"type": "Point", "coordinates": [-0.536, 47.4594]},
       "properties": {
         "title": "MERIDIANE La Madeleine ",
         "adresse": "41, rue Saumuroise ",
@@ -3104,9 +3104,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.060581, -1.02119]},
+      "geometry": {"type": "Point", "coordinates": [-1.02119, 47.060581]},
       "properties": {
-        "title": "Auto-école WR ",
+        "title": "Auto-école WR ",
         "adresse": "44, rue Nationale ",
         "codepostal": "49740.0",
         "tel": "02 41 71 82 89",
@@ -3133,10 +3133,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.471821, -0.55606]},
+      "geometry": {"type": "Point", "coordinates": [-0.55606, 47.471821]},
       "properties": {
         "title": "REFERENCE CONDUITE BAUDRIERE ",
-        "adresse": "49, rue Baudrière ",
+        "adresse": "49, rue Baudrière ",
         "codepostal": "49100.0",
         "tel": "02 41 86 05 09",
         "ville": "ANGERS ",
@@ -3162,10 +3162,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.506, -0.58875]},
+      "geometry": {"type": "Point", "coordinates": [-0.58875, 47.506]},
       "properties": {
-        "title": "Auto-école PINSON ",
-        "adresse": "80, avenue Pierre Mendès France ",
+        "title": "Auto-école PINSON ",
+        "adresse": "80, avenue Pierre Mendès France ",
         "codepostal": "49240.0",
         "tel": "02 41 69 21 64",
         "ville": "AVRILLE ",
@@ -3191,10 +3191,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.465099, -0.55965]},
+      "geometry": {"type": "Point", "coordinates": [-0.55965, 47.465099]},
       "properties": {
-        "title": "Auto-école LEBOURDAIS ",
-        "adresse": "3, place Pierre Sémard ",
+        "title": "Auto-école LEBOURDAIS ",
+        "adresse": "3, place Pierre Sémard ",
         "codepostal": "49100.0",
         "tel": "02 41 88 21 03",
         "ville": "ANGERS ",
@@ -3220,7 +3220,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.06749, -0.8848]},
+      "geometry": {"type": "Point", "coordinates": [-0.8848, 47.06749]},
       "properties": {
         "title": "Anjou Apprentissage Conduite ",
         "adresse": "1, rue d'Alsace ",
@@ -3249,9 +3249,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.474121, -0.55387]},
+      "geometry": {"type": "Point", "coordinates": [-0.55387, 47.474121]},
       "properties": {
-        "title": "Ecole de conduite Molière ",
+        "title": "Ecole de conduite Molière ",
         "adresse": "47, rue Boisnet ",
         "codepostal": "49000.0",
         "tel": "02 41 87 18 29",
@@ -3278,9 +3278,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.473728, -0.55914]},
+      "geometry": {"type": "Point", "coordinates": [-0.55914, 47.473728]},
       "properties": {
-        "title": "Auto-école L'Angevine ",
+        "title": "Auto-école L'Angevine ",
         "adresse": "5, rue Beaurepaire ",
         "codepostal": "49100.0",
         "tel": "02 41 88 12 38",
@@ -3307,9 +3307,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.054539, -0.8807]},
+      "geometry": {"type": "Point", "coordinates": [-0.8807, 47.054539]},
       "properties": {
-        "title": "Auto-école BROSSET ",
+        "title": "Auto-école BROSSET ",
         "adresse": "34, rue Arthur Guillou ",
         "codepostal": "49300.0",
         "tel": "02 41 62 36 71",
@@ -3336,9 +3336,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.26067, -0.08264]},
+      "geometry": {"type": "Point", "coordinates": [-0.08264, 47.26067]},
       "properties": {
-        "title": "CHANTAL Auto-école ",
+        "title": "CHANTAL Auto-école ",
         "adresse": "49, rue Beaurepaire ",
         "codepostal": "49400.0",
         "tel": "02 41 51 02 54",
@@ -3365,9 +3365,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.529177, -0.609624]},
+      "geometry": {"type": "Point", "coordinates": [-0.609624, 47.529177]},
       "properties": {
-        "title": "Méridiane Montreuil Juigné ",
+        "title": "Méridiane Montreuil Juigné ",
         "adresse": "16, rue Emile Zola ",
         "codepostal": "49460.0",
         "tel": "",
@@ -3394,9 +3394,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.491901, -0.490386]},
+      "geometry": {"type": "Point", "coordinates": [-0.490386, 47.491901]},
       "properties": {
-        "title": "Méridiane auto-école Saint Sylvain d'Anjou ",
+        "title": "Méridiane auto-école Saint Sylvain d'Anjou ",
         "adresse": "Passage Saint Anne ",
         "codepostal": "49480.0",
         "tel": "02 41 32 58 41",
@@ -3423,9 +3423,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.464691, -0.53427]},
+      "geometry": {"type": "Point", "coordinates": [-0.53427, 47.464691]},
       "properties": {
-        "title": "C.A.M.T. (Centre d'Aide à la Mobilité pour Tous) ",
+        "title": "C.A.M.T. (Centre d'Aide à la Mobilité pour Tous) ",
         "adresse": "87, avenue Patton ",
         "codepostal": "49000.0",
         "tel": "",
@@ -3452,9 +3452,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.475761, -0.54973]},
+      "geometry": {"type": "Point", "coordinates": [-0.54973, 47.475761]},
       "properties": {
-        "title": "Auto-école AYRAULT ",
+        "title": "Auto-école AYRAULT ",
         "adresse": "27, boulevard Ayrault ",
         "codepostal": "49100.0",
         "tel": "02 41 43 22 43",
@@ -3481,9 +3481,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.387546, 0.088429]},
+      "geometry": {"type": "Point", "coordinates": [0.088429, 47.387546]},
       "properties": {
-        "title": "Thierry Auto-école ",
+        "title": "Thierry Auto-école ",
         "adresse": "25 bis, rue de la Vincenderie ",
         "codepostal": "49390.0",
         "tel": "02 41 89 34 79",
@@ -3510,7 +3510,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.049252, -0.88509]},
+      "geometry": {"type": "Point", "coordinates": [-0.88509, 47.049252]},
       "properties": {
         "title": "EUROP CONDUITE ",
         "adresse": "15 bis, avenue de l'Europe ",
@@ -3539,10 +3539,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.472978, -0.555057]},
+      "geometry": {"type": "Point", "coordinates": [-0.555057, 47.472978]},
       "properties": {
-        "title": "Optimum auto-école ",
-        "adresse": "17, rue Plantagenêt ",
+        "title": "Optimum auto-école ",
+        "adresse": "17, rue Plantagenêt ",
         "codepostal": "49100.0",
         "tel": "02 41 69 24 65",
         "ville": "ANGERS ",
@@ -3568,7 +3568,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.258919, -0.07861]},
+      "geometry": {"type": "Point", "coordinates": [-0.07861, 47.258919]},
       "properties": {
         "title": "ECF CERCA ",
         "adresse": "17, rue du Portail Louis ",
@@ -3597,10 +3597,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.503941, -0.58641]},
+      "geometry": {"type": "Point", "coordinates": [-0.58641, 47.503941]},
       "properties": {
         "title": "ECF CERCA ",
-        "adresse": "32, avenue Pierre Mendès France ",
+        "adresse": "32, avenue Pierre Mendès France ",
         "codepostal": "49240.0",
         "tel": "02 43 21 41 46",
         "ville": "AVRILLE ",
@@ -3626,7 +3626,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.465721, -0.55116]},
+      "geometry": {"type": "Point", "coordinates": [-0.55116, 47.465721]},
       "properties": {
         "title": "ECF CERCA ",
         "adresse": "18, rue Paul Bert ",
@@ -3655,7 +3655,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.46567, -0.65683]},
+      "geometry": {"type": "Point", "coordinates": [-0.65683, 47.46567]},
       "properties": {
         "title": "ECF CERCA ",
         "adresse": "Z.A. La Claverie ",
@@ -3684,9 +3684,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.019421, -0.70731]},
+      "geometry": {"type": "Point", "coordinates": [-0.70731, 47.019421]},
       "properties": {
-        "title": "Auto-école TOUZE ",
+        "title": "Auto-école TOUZE ",
         "adresse": "29, rue Pierre de Romans ",
         "codepostal": "49360.0",
         "tel": "02 41 55 01 72",
@@ -3713,10 +3713,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.29297, 0.02365]},
+      "geometry": {"type": "Point", "coordinates": [0.02365, 47.29297]},
       "properties": {
-        "title": "Auto-école du Prieuré ",
-        "adresse": "6, rue du Prieuré ",
+        "title": "Auto-école du Prieuré ",
+        "adresse": "6, rue du Prieuré ",
         "codepostal": "49650.0",
         "tel": "02 41 52 81 76",
         "ville": "ALLONNES ",
@@ -3742,7 +3742,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.00975, -0.74068]},
+      "geometry": {"type": "Point", "coordinates": [-0.74068, 47.00975]},
       "properties": {
         "title": "ECCA MAULEVRIER ",
         "adresse": "41 bis, rue Jeanne d'Arc ",
@@ -3771,7 +3771,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.68536, -0.87333]},
+      "geometry": {"type": "Point", "coordinates": [-0.87333, 47.68536]},
       "properties": {
         "title": "SEGRE CONDUITE ",
         "adresse": "57, rue Pasteur ",
@@ -3800,10 +3800,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.626782, -0.71499]},
+      "geometry": {"type": "Point", "coordinates": [-0.71499, 47.626782]},
       "properties": {
-        "title": "Auto-école BARTHE ",
-        "adresse": "64 bis, rue du Général Leclerc ",
+        "title": "Auto-école BARTHE ",
+        "adresse": "64 bis, rue du Général Leclerc ",
         "codepostal": "49220.0",
         "tel": "02 41 95 33 85",
         "ville": "LE LION D'ANGERS ",
@@ -3829,10 +3829,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.463416, -0.5422]},
+      "geometry": {"type": "Point", "coordinates": [-0.5422, 47.463416]},
       "properties": {
         "title": "REFERENCE CONDUITE BEDIER ",
-        "adresse": "3, boulevard Bédier ",
+        "adresse": "3, boulevard Bédier ",
         "codepostal": "49000.0",
         "tel": "02 41 79 36 64",
         "ville": "ANGERS ",
@@ -3858,7 +3858,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.06184, -0.88423]},
+      "geometry": {"type": "Point", "coordinates": [-0.88423, 47.06184]},
       "properties": {
         "title": "ECF CERCA ",
         "adresse": "192, rue Nationale ",
@@ -3887,10 +3887,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.503132, -0.58582]},
+      "geometry": {"type": "Point", "coordinates": [-0.58582, 47.503132]},
       "properties": {
-        "title": "Méridiane auto-école AVRILLE ",
-        "adresse": "30, avenue Pierre Mendès France ",
+        "title": "Méridiane auto-école AVRILLE ",
+        "adresse": "30, avenue Pierre Mendès France ",
         "codepostal": "49240.0",
         "tel": "02 43 21 41 46",
         "ville": "AVRILLE ",
@@ -3916,10 +3916,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.477962, -0.588484]},
+      "geometry": {"type": "Point", "coordinates": [-0.588484, 47.477962]},
       "properties": {
-        "title": "Auto-école ZARAI ",
-        "adresse": "14, place de la Dauversière ",
+        "title": "Auto-école ZARAI ",
+        "adresse": "14, place de la Dauversière ",
         "codepostal": "49000.0",
         "tel": "06 99 40 50 57",
         "ville": "ANGERS ",
@@ -3945,9 +3945,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.433319, -0.53033]},
+      "geometry": {"type": "Point", "coordinates": [-0.53033, 47.433319]},
       "properties": {
-        "title": "Hexagone Les Ponts de Cé ",
+        "title": "Hexagone Les Ponts de Cé ",
         "adresse": "2 C, avenue de l'Amiral Chauvin ",
         "codepostal": "49130.0",
         "tel": "02 41 47 97 10",
@@ -3974,10 +3974,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.446291, -0.414665]},
+      "geometry": {"type": "Point", "coordinates": [-0.414665, 47.446291]},
       "properties": {
         "title": "EC2V ",
-        "adresse": "6, allée Newton - ZA Perrieres ",
+        "adresse": "6, allée Newton - ZA Perrieres ",
         "codepostal": "49800.0",
         "tel": "02 41 54 88 08",
         "ville": "BRAIN SUR L'AUTHION ",
@@ -4003,7 +4003,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.202873, -0.975248]},
+      "geometry": {"type": "Point", "coordinates": [-0.975248, 47.202873]},
       "properties": {
         "title": "Ecole de conduite Pierre LOITIERE ",
         "adresse": "Rue Ste Anne ",
@@ -4032,7 +4032,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.0588, -0.87487]},
+      "geometry": {"type": "Point", "coordinates": [-0.87487, 47.0588]},
       "properties": {
         "title": "Ecole de conduite Pierre LOITIERE ",
         "adresse": "55, boulevard de la Victoire ",
@@ -4061,7 +4061,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.05605, -0.8695]},
+      "geometry": {"type": "Point", "coordinates": [-0.8695, 47.05605]},
       "properties": {
         "title": "ABC Conduite ",
         "adresse": "17, rue Laennec ",
@@ -4090,7 +4090,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.0606, -0.872723]},
+      "geometry": {"type": "Point", "coordinates": [-0.872723, 47.0606]},
       "properties": {
         "title": "AECM ",
         "adresse": "6, rue du Puits Gourdon ",
@@ -4119,9 +4119,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.12358, -0.99199]},
+      "geometry": {"type": "Point", "coordinates": [-0.99199, 47.12358]},
       "properties": {
-        "title": "Auto-école Pass'Permis ",
+        "title": "Auto-école Pass'Permis ",
         "adresse": "6, rue Commerce",
         "codepostal": "49450.0",
         "tel": "02 41 55 33 29",
@@ -4148,10 +4148,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.67005, -0.243972]},
+      "geometry": {"type": "Point", "coordinates": [-0.243972, 47.67005]},
       "properties": {
         "title": "CER DURTAL ",
-        "adresse": "37 rue du Maréchal Leclerc ",
+        "adresse": "37 rue du Maréchal Leclerc ",
         "codepostal": "49430.0",
         "tel": "02 41 76 16 12",
         "ville": "DURTAL ",
@@ -4177,9 +4177,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.480789, -0.56659]},
+      "geometry": {"type": "Point", "coordinates": [-0.56659, 47.480789]},
       "properties": {
-        "title": "Optimum auto-école Saint Lazare ",
+        "title": "Optimum auto-école Saint Lazare ",
         "adresse": "49, rue Saint Lazare ",
         "codepostal": "49100.0",
         "tel": "02 41 48 31 70",
@@ -4206,7 +4206,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.485409, -0.51009]},
+      "geometry": {"type": "Point", "coordinates": [-0.51009, 47.485409]},
       "properties": {
         "title": "MERIDIANE LES BANCHAIS ",
         "adresse": "36 boulevard de la Romanerie ",
@@ -4235,9 +4235,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.47908, -0.52815]},
+      "geometry": {"type": "Point", "coordinates": [-0.52815, 47.47908]},
       "properties": {
-        "title": "NADOR Auto-école ",
+        "title": "NADOR Auto-école ",
         "adresse": "92 boulevard Allonneau ",
         "codepostal": "49100.0",
         "tel": "02 41 20 33 70",
@@ -4264,7 +4264,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.399979, -0.53147]},
+      "geometry": {"type": "Point", "coordinates": [-0.53147, 47.399979]},
       "properties": {
         "title": "MERIDIANE Aubance ",
         "adresse": "34, route de Cholet ",
@@ -4293,9 +4293,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.37663, -0.11957]},
+      "geometry": {"type": "Point", "coordinates": [-0.11957, 47.37663]},
       "properties": {
-        "title": "Auto-école BILLEY Jean- Christophe ",
+        "title": "Auto-école BILLEY Jean- Christophe ",
         "adresse": "23, rue Voltaire ",
         "codepostal": "49160.0",
         "tel": "02 41 52 13 12",
@@ -4322,9 +4322,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.3265, -0.0566]},
+      "geometry": {"type": "Point", "coordinates": [-0.0566, 47.3265]},
       "properties": {
-        "title": "Auto-école BILLEY Jean- Christophe ",
+        "title": "Auto-école BILLEY Jean- Christophe ",
         "adresse": "49, rue nationale ",
         "codepostal": "49680.0",
         "tel": "02 41 51 44 20",
@@ -7803,7 +7803,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.714059, 47.714059]},
+      "geometry": {"type": "Point", "coordinates": [-3.315205, 47.714059]},
       "properties": {
         "title": "Atlantis Tabehrite ",
         "adresse": "48 RUE KERDURAND 56670 RIANTEC",
@@ -7832,7 +7832,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.67544090000001, 47.67544090000001]},
+      "geometry": {"type": "Point", "coordinates": [-3.0039341000000377, 47.67544090000001]},
       "properties": {
         "title": "Le Grumelec AF2R ",
         "adresse": "121 RUE ABBE PHILIPPE LE GALL 56400 AURAY",
@@ -7861,7 +7861,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.678749, 47.678749]},
+      "geometry": {"type": "Point", "coordinates": [-2.29929, 47.678749]},
       "properties": {
         "title": "ECPR Guiho Malansac ",
         "adresse": "1 rue saint fiacre 56220 MALANSAC ",
@@ -7890,7 +7890,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.6372704, 47.6372704]},
+      "geometry": {"type": "Point", "coordinates": [-2.1647901000000047, 47.6372704]},
       "properties": {
         "title": "ECPR Guiho Allaire ",
         "adresse": "7 RUE Libération 56350 ALLAIRE",
@@ -7919,7 +7919,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.7567076, 47.7567076]},
+      "geometry": {"type": "Point", "coordinates": [-3.3640649999999823, 47.7567076]},
       "properties": {
         "title": "Auto-école Chazelles ",
         "adresse": "6 cours de Chazelles 56100 LORIENT",
@@ -7948,7 +7948,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.9309066, 47.9309066]},
+      "geometry": {"type": "Point", "coordinates": [-2.39873729999, 47.9309066]},
       "properties": {
         "title": "Malle Ploermel conduite ",
         "adresse": "17 RUE GENERAL DUBRETON 56800 Ploërmel",
@@ -7977,7 +7977,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.7024668, 47.7024668]},
+      "geometry": {"type": "Point", "coordinates": [-2.1499111000, 47.7024668]},
       "properties": {
         "title": "Schutz AE DE L OUST ALLAIRE ",
         "adresse": "3 rue Stade 56350 SAINT VINCENT SUR OUST",
@@ -8006,9 +8006,9 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.6980284, 47.6980284]},
+      "geometry": {"type": "Point", "coordinates": [-2.8050554, 47.6980284]},
       "properties": {
-        "title": "Roppez Stéphane ",
+        "title": "Roppez Stephane ",
         "adresse": "1 place Marianne 56890 Plescop",
         "codepostal": "56890.0",
         "tel": "06 88 98 85 81",
@@ -8035,7 +8035,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.73871, 47.73871]},
+      "geometry": {"type": "Point", "coordinates": [-3.4271400000000085, 47.73871]},
       "properties": {
         "title": "ELODIE BRIVOAL AUTO ECOLE ",
         "adresse": "pl Bretagne 56270 Ploemeur",
@@ -8064,7 +8064,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.6285316, 47.6285316]},
+      "geometry": {"type": "Point", "coordinates": [-2.6550042000000076, 47.6285316]},
       "properties": {
         "title": "DAVID FABIENNE AUTO ECOLE ",
         "adresse": "2 rue Brural 56450 THEIX",
@@ -8093,7 +8093,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.679823, 47.679823]},
+      "geometry": {"type": "Point", "coordinates": [-2.9999037000000044, 47.679823]},
       "properties": {
         "title": "Auto-école de la Gare ",
         "adresse": "15 place Raoul Dautry 56400 AURAY",
@@ -8122,7 +8122,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [48.0643094, 48.0643094]},
+      "geometry": {"type": "Point", "coordinates": [-2.9672117999999728, 48.0643094]},
       "properties": {
         "title": "LDG LE DIMNA ",
         "adresse": "9 rue Austerlitz 56300 PONTIVY",
@@ -8151,7 +8151,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.930898, 47.930898]},
+      "geometry": {"type": "Point", "coordinates": [-2.398506999999995, 47.930898]},
       "properties": {
         "title": "LE DAMIER PLOERMEL ",
         "adresse": "1 rue Jean Noël Gougeon 56800 Ploërmel",
@@ -8180,7 +8180,7 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [47.8089869, 47.8089869]},
+      "geometry": {"type": "Point", "coordinates": [-2.38327419999996, 47.8089869]},
       "properties": {
         "title": "LE DAMIER MALESTROIT ",
         "adresse": "9 rue des écoles 56140 Malestroit",
@@ -9660,10 +9660,10 @@ autoecole_data = [
   
     {
       "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [3.4362324, 43.6060571]},
+      "geometry": {"type": "Point", "coordinates": [2.6395430000000033, 48.87360899999999]},
       "properties": {
         "title": "AUTO ECOLE DU ROND-POINT",
-        "adresse": "3  rond-point de la Paix",
+        "adresse": "3 rond point de la Paix",
         "codepostal": "77360.0",
         "tel": "01 60 20 09 81",
         "ville": "Vaires-sur-Marne",
